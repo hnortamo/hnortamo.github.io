@@ -11,10 +11,24 @@ carousels:
     -  image: /assets/images/gallery/jul.jpg  
     -  image: /assets/images/gallery/smor.jpg  
     -  image: /assets/images/gallery/torta.jpg
+intro: 
+  - excerpt: 'Bästa bakverken väster om lovisa för allt från dop till begravning'
+
+feature_row:
+  - image_path: /assets/images/marknad.jpg
+    title: "Julmarknader"
+    excerpt: "Var ni hittar mig och sälja saker"
+    url: "/access"
+    btn_class: "btn--primary"
+    btn_label: "Läs mera"
+
 ---
+{% include feature_row id="intro" type="center" %}
 
 
-## Vi bakar tårtot och andra saker
+{% include feature_row  type="center" %}
+
+
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor quis risus sed facilisis. Mauris aliquet dolor et cursus congue. Sed et maximus ante. Suspendisse potenti. Morbi accumsan quam porta odio iaculis, sit amet ullamcorper libero scelerisque. Proin euismod, mi eget placerat ullamcorper, quam est ultrices ligula, viverra mollis diam nunc at ex. Mauris in justo quis eros tincidunt tincidunt nec a est. Pellentesque nec dui rhoncus neque sagittis facilisis quis tempor arcu. Aliquam at mi rutrum, dignissim turpis in, egestas eros. Ut in congue erat, eu suscipit odio. Curabitur a mauris in lectus pharetra elementum quis ut ante. Aliquam eget egestas justo. Maecenas sem arcu, consequat vitae est quis, blandit bibendum elit. Nullam imperdiet convallis nisi, non sagittis tortor varius vel. Etiam consectetur laoreet dui sit amet accumsan. Donec non augue lobortis, lacinia nisi at, congue magna.
 

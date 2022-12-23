@@ -6,6 +6,8 @@ main:
     url: /evenemang
   - title: Kontakt
     url: /kontakt
+  - title: Blog
+    url: /blog
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
