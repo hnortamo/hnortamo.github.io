@@ -20,8 +20,6 @@ carousels:
 
 ### Här e några fina bilder på saker
 
-<div style="margin: auto; width: 100%;position: relative; left: 25%">
  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-</div>
 Dui quis gravida enim. Quisque sagittis sapien ut tristique posuere. Duis sodales ultricies felis, scelerisque fermentum felis. Maecenas laoreet quis elit non commodo. Sed leo mi, tristique quis quam in, eleifend dignissim purus. Curabitur lobortis ipsum enim, sed scelerisque nisi feugiat nec. Praesent facilisis ac lectus quis mollis. Quisque vel vestibulum ligula. In maximus, augue non vehicula hendrerit, lectus nisl laoreet quam, in faucibus ante lorem tristique ante. Pellentesque luctus risus nisi. Curabitur dapibus vehicula orci id tempor. Sed sit amet elit vitae dolor sagittis vulputate sed eu massa. Nunc iaculis odio neque, eget sollicitudin arcu dapibus a. Cras ac ligula iaculis, laoreet quam et, congue neque. Donec nec lacus dui. 
 
