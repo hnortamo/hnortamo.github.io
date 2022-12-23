@@ -232,7 +232,7 @@ window.mobileCheck = function() {
 //<div style="margin: auto; width: 100%;position: relative; left: 25%">
 //document.getElementById("cholder").style.paddingBottom = "100%"; 
 //document.getElementById("cholder").style.width = "100%"; 
-    if( ! window.mobileCheck()  ){
+    if(  !window.mobileCheck()  ){
 a = document.getElementsByClassName("carousel")
 Array.from(a).forEach( (element) =>  {
     element.style.width="50%";
@@ -242,5 +242,12 @@ b=document.getElementsByClassName("carousel__holder")
 Array.from(b).forEach( (element) =>  {
     element.style.paddingLeft="25%";
 });
+}
+else {
+b=document.getElementsByClassName("carousel__holder")
+Array.from(b).forEach( (element) =>  {
+    element.style.paddingBottom="100%";
+});
+
 }
 </script>
