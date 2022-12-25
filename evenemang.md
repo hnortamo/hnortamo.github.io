@@ -7,6 +7,5 @@ Här hittar man info på när och var man kommer att sälja saker
 
 ## Kommande evenemang
 
-- dasd
-- dasdasd 
-- dsad
+- Jul 2030 
+- ~~Hästmarknad 2.1.2019~~

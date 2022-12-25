@@ -1,4 +1,5 @@
 ---
+classes: wide
 title: " "
 layout: splash
 header:
@@ -21,15 +22,22 @@ feature_row:
     url: "/access"
     btn_class: "btn--primary"
     btn_label: "Läs mera"
+  - image_path: /assets/images/anons.png
+    title: "Beställ"
+    excerpt: "Lorem Impsum"
+    url: "/kontakt"
+    btn_class: "btn--primary"
+    btn_label: "Läs mera"
 
 ---
 {% include feature_row id="intro" type="center" %}
 
 
-{% include feature_row  type="center" %}
+{% include feature_row  %}
 
 
 
+![image-right](assets/images/logo_small.jpg){: .align-right}
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor quis risus sed facilisis. Mauris aliquet dolor et cursus congue. Sed et maximus ante. Suspendisse potenti. Morbi accumsan quam porta odio iaculis, sit amet ullamcorper libero scelerisque. Proin euismod, mi eget placerat ullamcorper, quam est ultrices ligula, viverra mollis diam nunc at ex. Mauris in justo quis eros tincidunt tincidunt nec a est. Pellentesque nec dui rhoncus neque sagittis facilisis quis tempor arcu. Aliquam at mi rutrum, dignissim turpis in, egestas eros. Ut in congue erat, eu suscipit odio. Curabitur a mauris in lectus pharetra elementum quis ut ante. Aliquam eget egestas justo. Maecenas sem arcu, consequat vitae est quis, blandit bibendum elit. Nullam imperdiet convallis nisi, non sagittis tortor varius vel. Etiam consectetur laoreet dui sit amet accumsan. Donec non augue lobortis, lacinia nisi at, congue magna.
 
 ### Här e några fina bilder på saker
