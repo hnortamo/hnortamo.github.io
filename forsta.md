@@ -6,5 +6,5 @@ permalink: /brollopsresa.html
 
 # Elin och Henriks bröllopsresa
 
-- [Dit resan](/dag0)
+- [Ditresan](/dag0)
 - [Dag 1](/dag1)
