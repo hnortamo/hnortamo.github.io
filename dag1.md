@@ -8,10 +8,24 @@ permalink: /dag1.html
 
 Första dagen i Ubud var regnig, det öste ner mer eller mindre hela dagen. Vi vaknade tidigt på morgonen på grund av jetlag och var ganska trötta. Vi åt plättar och frukt till frukost och gick sedan ut för att titta på staden i dagsljus. Vårt första stopp var för att köpa regnponchon. 
 
-Ubud Water Palace
+![IMG_20241209_205129_787](https://github.com/user-attachments/assets/d80f71d0-41ac-44ae-80a5-461db39facae)
 
-Promenad förbi risfält
+![IMG_20241209_211107_655](https://github.com/user-attachments/assets/84f389c6-a908-4ae2-b399-e21c643ebf1e)
 
-Ubud Palace
+_Ubud Water Palace_
+
+![IMG_20241209_211139_176](https://github.com/user-attachments/assets/378fef65-ba5c-4134-8cde-985ba31786f6)
+
+![IMG_20241209_211138_631](https://github.com/user-attachments/assets/d6db8d82-7fe4-44da-a1bd-63667fbaebd8)
+
+
+_Promenad förbi risfält_
+
+![IMG_20241209_211139_180](https://github.com/user-attachments/assets/3527835e-ac3a-47fb-9e33-34e42d536817)
+
+![IMG_20241209_211139_197](https://github.com/user-attachments/assets/636a3b4e-46a3-42cf-8964-0c0493b738d0)
+
+_Ubud palace_
+
 
 Hoppas på mindre regn imorgon!
