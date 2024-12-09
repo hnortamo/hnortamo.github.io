@@ -13,9 +13,11 @@ Flygresan med Turkish airlines var lång men gick smidigt. Först flög vi från
 Flyget till Bali tog 12h, det var länge sedan jag flugit så långt. Servicen var bra även på detta flyg, man fick ett litet kit med strumpor, tofflor, ögonmask, tandborste, samt filtar och kuddar. Vi åt mat igen en stund efter att vi stigit på, och sedan sov vi. Jag sov över 6h och då jag vaknade så var det bara 2h flygtid kvar, så resan gick snabbt. Sen var det ännu frukost innan vi var framme. På flygfältet fixade vi SIM-kort och visum. 
 
 ![IMG_20241209_205121_441](https://github.com/user-attachments/assets/26a8403e-6f6d-4fd6-a439-3ae4f433eb98)
+
 _Kit för flygresan_
 
 ![IMG_20241209_205121_001](https://github.com/user-attachments/assets/003576ab-bcd5-42fb-921b-ed5255e9ee40)
+
 _Framme i Denpasar_
 
 Vi blev upplockade av taxin vi beställt och körde sen 1,5h mot Ubud. Första intrycket av Bali var att det var väldigt bebyggt, vi förvänta oss att komma ut ur stadsmiljön i nåt skede men istället fortsatte bebyggelsen i princip hela vägen. Också väldigt mycket utsmyckade byggnader. 
@@ -23,6 +25,7 @@ Vi blev upplockade av taxin vi beställt och körde sen 1,5h mot Ubud. Första i
 Vårt rum på ett litet familjedrivet hotell har en egen terrass. På kvällen åt vi pizza och gick sen och sova.
 
 ![IMG_20241209_205121_327](https://github.com/user-attachments/assets/e18eea8f-e1f7-46d8-9b90-237ad1d1ce2b)
+
 _Rummet_
 
 ![IMG-20241208-WA0000](https://github.com/user-attachments/assets/f2e04e55-4425-48f8-b710-c8b772abcf9c)
