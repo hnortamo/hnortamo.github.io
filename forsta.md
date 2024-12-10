@@ -8,3 +8,4 @@ permalink: /brollopsresa.html
 
 - [Ditresan](/dag0)
 - [Dag 1](/dag1)
+- [Dag 2](/dag2)
