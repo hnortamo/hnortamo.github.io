@@ -40,13 +40,12 @@ _Tegenugan_
  
 ![IMG_20241211_223831_204](https://github.com/user-attachments/assets/a4e5727b-9986-46f3-a677-35e301643020)
 
-_Tegenungan_
-
 _Kanto lampo_
 
 På kvällen gick vi på spabehandling som innehöll fotbad, balinesisk massage, scrub och blombad. Lyxigt!
 
-![IMG20241211184521](https://github.com/user-attachments/assets/a579324a-2fb7-4974-b9da-3a112ac387bb)
+![IMG_20241211_223423_348](https://github.com/user-attachments/assets/2c38c6b6-bdc5-484e-8360-784de00841f1)
+
 
 _Spaet_
 
