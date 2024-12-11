@@ -10,9 +10,45 @@ Idag var vi på sightseeing utanför Ubud. Vi bokade chaufför via hotellet som 
 
 Först åkte vi och tittade på risfält i terrasser.
 
-Sedan for vi till en kaffeodling. Där hade de en trädgård där man fick se hur kaffe och andra lokala växter ser ut, som t.ex. kakao, avokado och vanilj. Vi fick också titta på luwak-djuret. Luwakn äter kaffebönor, och man samlar in dess spillning, rengör bönorna som passerat hela genom matsmä,tningssystmet och gör sedan kaffe på dem. Vi såg också hur kaffebönorna rostas och mals, och sen fick vi smaka på olika sorters kaffe och te. Vi beställde också en kopp luwak-kaffe. Mycket roligt besök!
+![IMG_20241211_223423_757](https://github.com/user-attachments/assets/c794f26d-2c23-4dbb-9dd5-226fe7220a0f)
 
-Sist besökte vi två vattenfall.
+![IMG_20241211_223423_178](https://github.com/user-attachments/assets/4364081c-89b6-4844-9030-31ed5ab53509)
+
+_Tengalalang risfält_
+
+Sedan for vi till en kaffeodling. Där hade de en trädgård där man fick se hur kaffe och andra lokala växter ser ut, som t.ex. kakao, avokado och vanilj. Vi fick också titta på luwak-djuret. Luwakn äter kaffebönor, och man samlar in dess spillning, rengör bönorna som passerat hela genom matsmältningssystmet och gör sedan kaffe på dem. Vi såg också hur kaffebönorna rostas och mals, och sen fick vi smaka på olika sorters kaffe och te. Vi beställde också en kopp luwak-kaffe. Mycket roligt besök!
+
+![IMG_20241211_223423_521](https://github.com/user-attachments/assets/690523c3-cd92-47d6-878e-4c6a5c3550d0)
+
+_Kaffetasting_
+
+![IMG_20241211_223423_463](https://github.com/user-attachments/assets/e6c404d9-9c7c-4c67-8f11-7cdc4b7795b6)
+
+_Växter_
+
+![IMG_20241211_225056_107](https://github.com/user-attachments/assets/60cc44cc-36ab-40d8-a541-9b7f98e3952a)
+
+_Djuret i fråga_
+
+
+Sist besökte vi två vattenfall med lunch i mellan ( BABI GULING PANDE EGI MAIN OFFICE ). Vid första var vi riktigt och simma.
+
+ ![IMG_20241211_223423_777](https://github.com/user-attachments/assets/fa1a414a-5bac-44a6-8fb0-1c1e7fa4224c)
+
+_Kanto lampo_
+ 
+![IMG_20241211_223831_204](https://github.com/user-attachments/assets/a4e5727b-9986-46f3-a677-35e301643020)
+
+_Tegenungan_
 
 På kvällen gick vi på spabehandling som innehöll fotbad, balinesisk massage, scrub och blombad. Lyxigt!
+
+![IMG20241211184521](https://github.com/user-attachments/assets/a579324a-2fb7-4974-b9da-3a112ac387bb)
+
+_Spaet_
+
+![IMG_20241211_223423_348](https://github.com/user-attachments/assets/3dc6b955-2e4e-4e95-9f0f-34bddd2e46fe)
+
+_Solnedgång vid ingången till spaet_
+
  
