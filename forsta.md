@@ -7,5 +7,6 @@ permalink: /brollopsresa.html
 # Elin och Henriks bröllopsresa
 
 - [Ditresan](/dag0)
-- [Dag 1](/dag1)
-- [Dag 2](/dag2)
+- [Ubud dag 1](/dag1)
+- [Ubud dag 2](/dag2)
+- [Ubud dag 3](/ubud_dag3)
