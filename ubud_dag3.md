@@ -20,13 +20,14 @@ Sedan for vi till en kaffeodling. Där hade de en trädgård där man fick se hu
 
 ![IMG_20241211_223423_521](https://github.com/user-attachments/assets/690523c3-cd92-47d6-878e-4c6a5c3550d0)
 
-_Kaffetasting_
+_Växter_
 
 ![IMG_20241211_223423_463](https://github.com/user-attachments/assets/e6c404d9-9c7c-4c67-8f11-7cdc4b7795b6)
 
-_Växter_
+_Kaffetaisting_
 
-![IMG_20241211_225056_107](https://github.com/user-attachments/assets/60cc44cc-36ab-40d8-a541-9b7f98e3952a)
+![IMG_20241211_225056_107](https://github.com/user-attachments/assets/6a96ff29-2d5a-41f7-a8f7-1c382652adbe)
+
 
 _Djuret i fråga_
 
@@ -35,11 +36,13 @@ Sist besökte vi två vattenfall med lunch i mellan ( BABI GULING PANDE EGI MAIN
 
  ![IMG_20241211_223423_777](https://github.com/user-attachments/assets/fa1a414a-5bac-44a6-8fb0-1c1e7fa4224c)
 
-_Kanto lampo_
+_Tegenugan_
  
 ![IMG_20241211_223831_204](https://github.com/user-attachments/assets/a4e5727b-9986-46f3-a677-35e301643020)
 
 _Tegenungan_
+
+_Kanto lampo_
 
 På kvällen gick vi på spabehandling som innehöll fotbad, balinesisk massage, scrub och blombad. Lyxigt!
 
@@ -47,7 +50,8 @@ På kvällen gick vi på spabehandling som innehöll fotbad, balinesisk massage,
 
 _Spaet_
 
-![IMG_20241211_223423_348](https://github.com/user-attachments/assets/3dc6b955-2e4e-4e95-9f0f-34bddd2e46fe)
+![IMG_20241211_230626_842](https://github.com/user-attachments/assets/20090eb3-ec41-423d-bf3a-94aae9fd019b)
+
 
 _Solnedgång vid ingången till spaet_
 
