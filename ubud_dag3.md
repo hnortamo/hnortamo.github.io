@@ -26,7 +26,7 @@ _Växter_
 
 _Kaffetaisting_
 
-![IMG_20241211_225056_107](https://github.com/user-attachments/assets/6a96ff29-2d5a-41f7-a8f7-1c382652adbe)
+![IMG_20241211_225056_107](https://github.com/user-attachments/assets/d1b27b9a-0135-4cec-a16a-d42e87d2f67a)
 
 
 _Djuret i fråga_
