@@ -10,3 +10,4 @@ permalink: /brollopsresa.html
 - [Ubud dag 1](/dag1)
 - [Ubud dag 2](/dag2)
 - [Ubud dag 3](/ubud_dag3)
+- [Seminyak dag 1](/seminyak_dag1)
