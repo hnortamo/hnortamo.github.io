@@ -30,7 +30,9 @@ _Surfare_
 
 Efter surfandet gick vi och checkade in på hotellet. Vi har ett stort rum med väldigt stor terrass, mera som en liten lägenhet. Personalen hade dekorerat fint åt oss. Sen var det dags för dusch och middag.
 
-![IMG_20241212_232017_855](https://github.com/user-attachments/assets/56a7b20f-84ab-4370-a329-0cd2f05b4b41)
+
+
+![IMG_20241212_232018_159](https://github.com/user-attachments/assets/0f42d96c-b402-4ff4-b003-a7484ea2bd87)
 
 _Fint bäddat_
 
@@ -38,7 +40,7 @@ _Fint bäddat_
 
 _Terass_
 
-![IMG_20241212_232018_159](https://github.com/user-attachments/assets/0f42d96c-b402-4ff4-b003-a7484ea2bd87)
+![IMG_20241212_232017_855](https://github.com/user-attachments/assets/56a7b20f-84ab-4370-a329-0cd2f05b4b41)
 
 _Mera terass_
 
