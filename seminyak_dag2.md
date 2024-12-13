@@ -1,3 +1,8 @@
+---
+# example 404.md
+layout: default
+permalink: /seminyak_dag1.html
+---
 
 Vi började dagen med morgonmål på terrassen. Kaffe var speciellt gott. 
 Det var också dags för resans första byktvätt. Vi valde bara att ha hotellet att fixa det istället för att äventyra med något mera lokalt tvättställe.
