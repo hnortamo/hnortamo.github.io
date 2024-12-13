@@ -1,7 +1,7 @@
 ---
 # example 404.md
 layout: default
-permalink: /seminyak_dag1.html
+permalink: /seminyak_dag2.html
 ---
 
 Vi började dagen med morgonmål på terrassen. Kaffe var speciellt gott. 
