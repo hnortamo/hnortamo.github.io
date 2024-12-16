@@ -11,8 +11,8 @@ Det var också dags för resans första byktvätt. Vi valde bara att ha hotellet
 
 _Frukost_
 
-Sedan for vi och vandra på stranden, som runt 11:00 va ganska tom. Elin fick gunga.
-Vi tog en paus på ett dyrare ställe på ön. Efter att ha informerats att bord vid swimmingpoolen betyder IDR 3,000,000 minimum spend > 180€, så nöjde vi oss med två glas prosecco vid en bänk istället. Priset var som i Finland, 12€ / glas.. Jämför med att på billigare icke turist restauranger så har vi tagit tre portioner mat + öl för 9€.
+Sedan for vi och vandra på stranden, som runt 11:00 var ganska tom. Elin fick gunga. Den del av stranden närmast vårt boende har dessutom inga tjänster så därför är det ganska dött.
+Vi tog en paus på ett dyrare ställe på ön. Efter att ha informerats att bord vid swimmingpoolen betyder IDR 3,000,000 minimum spend > 180€, så nöjde vi oss med två glas prosecco vid en bänk istället. Priset var som i Finland, 12€ / glas... Jämför med att på billigare icke turist restauranger så har vi tagit tre portioner mat + öl för 9€.
 
 
 ![IMG_20241213_222523_433](https://github.com/user-attachments/assets/412c75e2-a186-4120-8843-7f1a8c67c018)
@@ -24,7 +24,7 @@ _Gunga_
 _Platser_
 
 
-Sen var de dags för lunch. Häftigt mexikanskt tema på restaurangen. Efter lunch så spelade vi minigolf, banan var helt bra med några roliga jippon men lite ojämn 7/10. Henrik vann denhär gången men tror att Elin bara lät honom vinna. Vi for tillbaka till hotellet med resans första mopotaxi. Kuskarna e helt bra och det är mycket trafik så dom kör inte så hårt. Man får lite dåligt samvete när en 10min resa kostar 0.80€
+Sen var de dags för lunch. Häftigt mexikanskt tema på restaurangen. Efter lunch så spelade vi minigolf, banan var helt bra med några roliga jippon men lite ojämn, 7/10. Henrik vann denhär gången men tror att Elin bara lät honom vinna. Vi for tillbaka till hotellet med resans första mopotaxi. Kuskarna e helt bra och det är mycket trafik så dom kör inte så hårt. Man får lite dåligt samvete när en 10min resa kostar 0.80€
 
 ![IMG_20241213_222524_173](https://github.com/user-attachments/assets/ac62bc63-c9d0-48fb-8134-06d387a3217a)
 
