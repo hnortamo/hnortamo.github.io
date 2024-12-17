@@ -4,7 +4,24 @@ Här kommer en sammanfattning av dag 3 och 4 i Seminyak.
 
 Jag mådde inte så bra på lördag och behövde ha en wc nära till hands, så vi spenderade största delen av dagen på vår terrass och läste. Vi hittade en liten bokhandel nära vårt hotell, var alla böcker var i packade i plats för att inte bli fuktskadade. Jag skaffade boken Eat, Pray, Love som delvis utspelar sig på Bali. För lunchen så gick vi till ett ställe med en takterass. Vi hade tänkt stanna där och doppa oss i deras pool, men det började regna efter att vi ätit så vi gick tillbaka till hotellet. Vi planerade också följade dag som var vår sista dag på Bali. Vi bestämde oss för att göra en tur till Bukit-halvön eller Uluwatu, som är en halvö i södra Bali. Där finns bl.a. Uluwatu tempel samt stränder, klippor och utsikspunkter på västra sidan. Vi bokade en chaufför att ta oss dit via hotellet. 
 
+
+![IMG_20241217_213610_138](https://github.com/user-attachments/assets/2f000423-5fa2-4389-a8c2-b973b9f08c4a)
+
+
+![IMG_20241217_213610_730](https://github.com/user-attachments/assets/23d4b721-0b96-4619-9849-145a83079ab9)
+
+
+![IMG_20241217_213610_080](https://github.com/user-attachments/assets/ebb139da-92f9-4e9d-bb1a-ad5f73e1a3a9)
+
+
 På söndagen mådde jag lite bättre, men hade fortfarande ont i magen mellan varven. Vi hoppade i bilen för vår tur till Uluwatu och for först till Garuda Wisnu Kencana-parken (GRW). GRW är en 120 m hög brons- och kopparstaty som syns på långt håll. Området i anslutning till parken var också snyggt. Tyvärr började Henrik må väldigt dåligt medan vi var där, så vi hamnade avbryta rundturen och åka direkt tillbaka till hotellet. Han hade fått en klassisk matförgiftning, stackarn. Vi har försökt vara försiktiga med maten genom att undvika tomma restauranger och bara äta mat som sereras varm, samt välja bort sallad och färska grönsaker som kan vara tvättade i kranvatten, och förstås ingen is i dryckerna. Men allt kan man inte påverka själv, och fenomenet är så pass vanligt att det har ett eget namn, Bali belly. Före resan hade vi nog räknat med att det kan hända att vi får nånting, men det gör det inte lättare sen då man får det. Då man mår dåligt vill man bara fara hem. 
+
+![IMG_20241217_213610_349](https://github.com/user-attachments/assets/fd18c560-4fb9-4be9-8bae-edaccfc0a134)
+
+![IMG_20241217_213610_209](https://github.com/user-attachments/assets/c1034175-9b81-4e93-97e3-f0150b349d9e)
+
+![IMG_20241217_213610_365](https://github.com/user-attachments/assets/aa29a5c7-315a-46bb-b65b-cdcfff3e3c9f)
+
 
 Från hotellets sida var de väldigt omtänksamma och hjälpsamma då de fick höra talas om att Henrik var sjuk och kom med ingefära och rostat bröd till rummet. Överlag är alla människor väldigt vänliga och glada här på Bali, alla ler och hälsar då man går förbi. 
 
