@@ -5,7 +5,7 @@ Vi startade tidigt på morgonen från Seminyak mot flygfältet för att resa til
 ![IMG_20241217_214626_032](https://github.com/user-attachments/assets/17ac1ae5-9280-4aa3-ac17-4031b7b55b6f)
 
 
-Vi checkade in på vårt hotell som är snyggt och fräscht men rummet litet jämfört med de tidigare. Första intrycken av Singapore är att det är väldigt rikt och modernt, speciellt i jämförelse med Bali. Här finns många skyskrapor och häftiga byggnader, men samtidigt är det väldigt grönt. Kontrasten till Bali är verkligen stor. Här kan man till och med dricka kranvattnet (filtrerat sådant) och det finns markerade övergångställen och kollektivtrafik. Stämningen är också annorlunda, det märks att Bali mest går runt på turism och risodling, medan ekonomin i Simgapore ser helt annorlunda ut. 
+Vi checkade in på vårt hotell som är snyggt och fräscht men rummet litet jämfört med de tidigare. Första intrycken av Singapore är att det är väldigt rikt och modernt, speciellt i jämförelse med Bali. Här finns många skyskrapor och häftiga byggnader, men samtidigt är det väldigt grönt. Kontrasten till Bali är verkligen stor. Här kan man till och med dricka kranvattnet (filtrerat sådant) och det finns markerade övergångställen och kollektivtrafik. Stämningen är också annorlunda, det märks att Bali mest går runt på turism och risodling, medan ekonomin i Singapore ser helt annorlunda ut. 
 
 På kvällen gick vi och äta till ett köpcenter i närheten och beställde två allt för stora portioner. Men gott var det! Sen drog vi oss tillbaka till hotellet, hoppas på att se mera av staden imorgon. 
 
