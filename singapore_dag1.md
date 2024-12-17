@@ -4,4 +4,6 @@ Idag åt vi frukost på caféet i anslutning till hotellet. Vi var inte superimp
 
 Vi tittade också på Gardens by the Bay uppe från deras skywalk. Utsikten är häftig och man såg bland annat alla skepp i Singapores hamn. Efter lunch besökte vi Cloud Forest. Cloud Forest är ett stort växthus med ett vattenfall, orkidéer och massor med andra tropiska växter. Man kunde också gå upp på gångar uppe i växthuset. Verkligen värt ett besök!
 
-Jag hade haft ont i magen med från och till hela dagen, nu före femte dagen, så jag bestämde mig för att gå till läkaren. Efter samtal till försäkringsbolaget gick jag till en läkarstation och fick utskrivet sex olika mediciner, inklusive antibiotika. Hoppas det hjälper! 
+Jag hade haft ont i magen från och till hela dagen, nu för femte dagen i rad, så jag bestämde mig för att gå till läkaren. Efter samtal till försäkringsbolaget gick jag till en läkarstation och fick utskrivet sex olika mediciner. Hoppas det hjälper! Henrik började också må väldigt dåligt och gick och vilade på hotellet. På kvällen åt jag pizza till middag och gick och köpa en lite snacks. Hoppas på bättre dag imorgon, men att vi ska resa i övermorgon igen lockar inte för tillfället. 
+
+- Elin
