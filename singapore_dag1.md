@@ -2,7 +2,26 @@
 
 Idag åt vi frukost på caféet i anslutning till hotellet. Vi var inte superimponerade eftersom det var en buffé vilket kändes lite ofräscht. Vi åt rostat bröd men vi väljer antagligen nåt annat ställe imorgon. Efter frukost tog vi oss till Gardens by the Bay med buss, vilket fungerade väldigt smidigt och man kunde betala med betalkort. Gardens by the Bay var häftigt och mycket större än jag hade trott. Singapore känns ställvis väldigt futuristist, nästan utomjordiskt. Titta till exempel på Marina Bay Sands. 
 
+![IMG_20241217_215818_718](https://github.com/user-attachments/assets/97007a69-a178-46b3-8e7e-6094f9467eed)
+
+
 Vi tittade också på Gardens by the Bay uppe från deras skywalk. Utsikten är häftig och man såg bland annat alla skepp i Singapores hamn. Efter lunch besökte vi Cloud Forest. Cloud Forest är ett stort växthus med ett vattenfall, orkidéer och massor med andra tropiska växter. Man kunde också gå upp på gångar uppe i växthuset. Verkligen värt ett besök! Det som också var roligt var att man kände igenom många växter som vi hemma har som krukväxter, som julstjärna, fuchsia och änglatrumpet.
+
+![IMG_20241217_215818_636](https://github.com/user-attachments/assets/851e631d-b46f-4c55-beee-cceb641917d5)
+
+![IMG_20241217_215818_854](https://github.com/user-attachments/assets/16d95da2-7bce-4c97-9088-796abda22736)
+
+![IMG_20241217_215818_555](https://github.com/user-attachments/assets/f73b4c57-1831-4126-852c-72c51a396bfe)
+
+![IMG_20241217_215817_998](https://github.com/user-attachments/assets/7e511925-816a-4ab1-951e-e797698d3278)
+
+![IMG_20241217_215901_167](https://github.com/user-attachments/assets/9062563a-09f6-42c7-bc98-734446ae8ebe)
+
+![IMG_20241217_215900_356](https://github.com/user-attachments/assets/ef64eaac-b51a-49f8-8f32-85445ada505a)
+
+![IMG_20241217_215900_583](https://github.com/user-attachments/assets/33ba0151-70b6-4264-ad3e-70296012c7b4)
+
+
 
 Jag hade haft ont i magen från och till hela dagen, nu för femte dagen i rad, så jag bestämde mig för att gå till läkaren. Efter samtal till försäkringsbolaget gick jag till en läkarstation och fick utskrivet sex olika mediciner. Hoppas det hjälper! Henrik började också må väldigt dåligt och gick och vilade på hotellet. På kvällen åt jag pizza till middag och gick och köpa en lite snacks. Hoppas på bättre dag imorgon, men att vi ska resa i övermorgon igen lockar inte för tillfället. 
 
