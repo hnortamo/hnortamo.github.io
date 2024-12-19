@@ -11,7 +11,8 @@ Först besökte vi Chinatown. Det fanns många restauranger och souvenirbutiker,
 
 Sedan tog vi oss till Little India där vi åt lunch på en indisk restaurang. Den visade sig vara svindyr, bara skålen med ris som jag tog till min butter chicken kostade 8 Singapore-dollar före skatt. I Little India fanns många färggranna hus och stånd som sålde blommor och tyger. 
 
-![IMG_20241219_132525_919](https://github.com/user-attachments/assets/90e30e91-f210-48cb-a9c4-bbc104d764e3)
+![IMG_20241219_132526_287](https://github.com/user-attachments/assets/3686ba67-c76c-41b0-8a66-48ce006fcd3f)
+
 
 ![IMG_20241219_132525_819](https://github.com/user-attachments/assets/f32c120e-a5c9-4c29-86fa-4917b7ddc189)
 
