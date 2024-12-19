@@ -15,3 +15,4 @@ permalink: /brollopsresa.html
 - [Seminyak dag 3 och 4](/seminyak_dag3-4)
 - [Bali till Singapore](/singapore_dag0)
 - [Singapore dag 1](/singapore_dag1)
+- [Singapore dag 2](/singapore_dag2)
