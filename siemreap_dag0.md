@@ -23,7 +23,7 @@ Vi hittar det turistigaste matställe i hopp av att inte få matförgiftning.
 Efter middagen besöker vi ett torg med vackra broar
 över ån.
 
-
+Hotellet ser lyxigt ut och vi har igen fått svanar på sängen. 
 
 
 
