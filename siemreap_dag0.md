@@ -18,8 +18,8 @@ första försök på en elektronik arrival card inte gick igenom
 då en 0 hade blivit ett O. Mera klassisk resa utan internet då Elins
 E-sim inte fungerade och flygfältet inte sålde några
 vanliga simkort. Vi hoppar i en officiell taxi som kör oss ungefär en timme
-tills vi kommer till hotellet. Allmänt så tyckte vi jätte mycke om hur naturen vi körde igenom
-såg ut, kändes ruralt. Kusken var trevlig så vi beställde honom som guide för
+tills vi kommer till hotellet. Allmänt så tyckte vi mycke om hur naturen vi körde igenom
+såg ut, det var annorlunda och torrare än på Bali. Det kändes också ruralt, mycket odlingar och kossor som gick omkring och betade. Kusken var trevlig så vi beställde honom som guide för
 morgondagens Ankor Wat besök.
 
 ![IMG_20241220_212757_885](https://github.com/user-attachments/assets/edc2c3c8-30b8-4ef2-bb57-573207d593fa)
@@ -35,7 +35,6 @@ Vi hittar det turistigaste matställe i hopp av att inte få matförgiftning.
 
 ![IMG_20241220_212808_165](https://github.com/user-attachments/assets/9dedbc7b-a69f-43e2-8ac4-c9862fb8420b)
 
-
 Efter middagen besöker vi ett torg med vackra broar
 över ån.
 
@@ -46,5 +45,5 @@ Hotellet ser lyxigt ut och vi har igen fått svanar på sängen.
 
 ![IMG_20241220_212757_612](https://github.com/user-attachments/assets/1b1b5428-a52a-48bc-a69f-cf03f41bb8c6)
 
-
+- Henrik
 
