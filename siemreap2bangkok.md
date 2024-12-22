@@ -1,3 +1,5 @@
+![IMG_20241222_211212_777](https://github.com/user-attachments/assets/de2d56fc-7cc9-49bb-afd3-5eded02b747e)
+
 Idag sku vi åka buss ända från Siem reap till Bangkok
 Vi tog en tidig start med frukost ren 6:30,
 efter checkout tog vi tuktuk till varifrån bussen skulle starta, men fick veta
@@ -20,6 +22,12 @@ bussen som skulle ta oss till Bangkok.
 Lite dötid med Elin hann fixa sitt nästa E-sim,
 så inte helt bortkastat. Efter pausen bar färden av mot Bangkok.
 Inget nämnvärt hände under resan.
+
+![IMG_20241222_211212_583](https://github.com/user-attachments/assets/211be5e8-0dd1-4a86-b079-e8e4b8c0a222)
+
+
+![IMG_20241222_211212_446](https://github.com/user-attachments/assets/38c9f460-09f7-4118-a62f-f7641fd7a9f1)
+
 
 Väl framme i Bangkok ( efter ca 10h total resetid) var det mycke trafik 
 och vi såg ut över staden och konstaterade att den ser ganska väldigt stor ut.
