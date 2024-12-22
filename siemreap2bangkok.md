@@ -1,6 +1,6 @@
 ![IMG_20241222_211212_777](https://github.com/user-attachments/assets/de2d56fc-7cc9-49bb-afd3-5eded02b747e)
 
-Idag sku vi åka buss ända från Siem reap till Bangkok
+Idag åkte vi buss ända från Siem reap till Bangkok
 Vi tog en tidig start med frukost ren 6:30,
 efter checkout tog vi tuktuk till varifrån bussen skulle starta, men fick veta
 att stället hade flyttats för ca en månad sen.
