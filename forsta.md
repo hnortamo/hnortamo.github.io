@@ -18,3 +18,4 @@ permalink: /brollopsresa.html
 - [Singapore dag 2](/singapore_dag2)
 - [Singapore till Siem Reap](/siemreap_dag0)
 - [Siem Reap dag 1](/siemreap_dag1)
+- [Siem Reap till Bangkok](/siemreap2bangkok)
