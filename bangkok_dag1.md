@@ -3,7 +3,7 @@ Vi började dagen med att ta en båt längs floden. Väldigt kul att se staden f
 ![IMG_20241224_155329_329](https://github.com/user-attachments/assets/2b9aebcb-f6f1-4908-b372-baa6aadeece2)
 
 
-Vi hoppade av båten vid Grand palace vilket är ett helt enormt kompleks med tempel. Det var Henriks tur att skaffa elefantmönstrade byxor då vi märkte att klädkoden för templen innebar långa byxor för män. Vi visste att det fanns regler men hade gladeligen glömt bort att kolla exakt vad som gällde på morgonen. Vi gick runt på området och det var väldigt fullt med folk. Vi skulle rekommendera att komma hit tidigare på morgonen för att undvika värsta rusningen, som vi hamnade i. Allt var väldigt utsmyckat och extravagant.
+Vi hoppade av båten vid Grand palace vilket är ett helt enormt komplex med tempel. Det var Henriks tur att skaffa elefantmönstrade byxor då vi märkte att klädkoden för templen innebar långa byxor för män. Vi visste att det fanns regler men hade gladeligen glömt bort att kolla exakt vad som gällde på morgonen. Vi gick runt på området och det var väldigt fullt med folk. Vi skulle rekommendera att komma hit tidigare på morgonen för att undvika värsta rusningen, som vi hamnade i. Allt var väldigt utsmyckat och extravagant.
 
 ![IMG_20241224_155257_579](https://github.com/user-attachments/assets/2da5b43c-d95f-46b7-905d-d59197406201)
 
