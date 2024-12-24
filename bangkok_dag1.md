@@ -1,9 +1,9 @@
-Vi börja dagen med att ta en båt längs floden. Väldigt kul att se staden från floden och man känner inte sig så instängd.
+Vi började dagen med att ta en båt längs floden. Väldigt kul att se staden från floden och man kände sig inte så instängd vilket man lätt gör annars i staden.
 
 ![IMG_20241224_155329_329](https://github.com/user-attachments/assets/2b9aebcb-f6f1-4908-b372-baa6aadeece2)
 
 
-Vi hoppar av båten vid "Grand palace" vilket är ett helt enormt kompleks med tempel. Det var Henriks tur att skaffa färgglada byxor då vi nog veta att den finns en klädkod för tempel med gladeligen glömt bort det på morgonen. Vi går runt på område var de väldigt fullt med folk. Allt e väldigt utsmyckat och extravagant.
+Vi hoppade av båten vid Grand palace vilket är ett helt enormt kompleks med tempel. Det var Henriks tur att skaffa elefantmönstrade byxor då vi märkte att klädkoden för templen innebar långa byxor för män. Vi visste att det fanns regler men hade gladeligen glömt bort att kolla exakt vad som gällde på morgonen. Vi gick runt på området och det var väldigt fullt med folk. Vi skulle rekommendera att komma hit tidigare på morgonen för att undvika värsta rusningen, som vi hamnade i. Allt var väldigt utsmyckat och extravagant.
 
 ![IMG_20241224_155257_579](https://github.com/user-attachments/assets/2da5b43c-d95f-46b7-905d-d59197406201)
 
@@ -16,7 +16,6 @@ Vi hoppar av båten vid "Grand palace" vilket är ett helt enormt kompleks med t
 ![IMG_20241224_155256_912](https://github.com/user-attachments/assets/5e39e058-e33d-435f-b535-d0960288a540)
 
 
-
 Efter palatset tar vi lunch och äter Pad Thai. 
 
 ![IMG_20241224_155303_017](https://github.com/user-attachments/assets/3017fe47-f19c-4d15-b4f2-7231a291162c)
@@ -24,8 +23,7 @@ Efter palatset tar vi lunch och äter Pad Thai.
 ![IMG_20241224_155303_372](https://github.com/user-attachments/assets/3b5a12f3-448e-4000-943e-6df0d6e6b6ab)
 
 
-
-Wat Phra var nästa tempelkomplex. Höjdpunkten var en enorm liggande Buddha staty, men det fanns många andra häftiga byggnader.
+Wat Phra var nästa tempelkomplex. Höjdpunkten var en enorm liggande Buddhastaty, men det fanns många andra häftiga byggnader.
 
 ![IMG_20241224_155308_174](https://github.com/user-attachments/assets/4cb000f7-f5f0-43d1-9686-d803f2848c8c)
 
@@ -36,12 +34,12 @@ Wat Phra var nästa tempelkomplex. Höjdpunkten var en enorm liggande Buddha sta
 ![IMG_20241224_155303_713](https://github.com/user-attachments/assets/d0fa511e-e340-4c30-aa40-b4653d2ee8e5)
 
 
-En kort tuktuk-färd senare var vi vid khaosan road,
-en fest/backpacker gata. Henrik köpte sitt thailändska
-sim-kort av en man som inte tala engelska. Efter
-en välgömd genväg var vi vid floden igen.
-Till sist så tog vi båten tillbaks till hotellet i solnedgången.
-Vi titta på Wat Arun ( Stort tempel ) på distans då vi hade 
+En kort tuktuk-färd senare var vi vid Khao San road,
+en fest-/backpackergata. Henrik köpte sitt thailändska
+sim-kort av en man som inte talade engelska. Efter
+en välgömd genväg kom vi tillbaka till floden igen.
+Slutligen så tog vi båten tillbaka mot hotellet i solnedgången.
+Vi nöjde oss med att titta på Wat Arun (stort tempel) på distans eftersom vi hade 
 sett tillräckligt med tempel för dagen.
 
 ![IMG_20241224_155308_470](https://github.com/user-attachments/assets/dc396673-c57d-454f-b00a-bab3bb950c23)
@@ -54,7 +52,6 @@ sett tillräckligt med tempel för dagen.
 ![IMG_20241224_155317_692](https://github.com/user-attachments/assets/cf7b4c83-0b25-41e2-b040-00f763963cfa)
 
 
-
-Vi åt god middag på Thailändsk restaurang.
+Vi åt god middag på en thailändsk restaurang nära hotellet.
 
 ![IMG_20241224_155312_481](https://github.com/user-attachments/assets/3b65e653-b014-4cb6-ab7c-b3eba2f1ba0b)
