@@ -20,3 +20,5 @@ permalink: /brollopsresa.html
 - [Siem Reap dag 1](/siemreap_dag1)
 - [Siem Reap dag 2](/siemreap_dag2)
 - [Siem Reap till Bangkok](/siemreap2bangkok)
+- [Bangkok dag 1](/bangkok_dag1)
+  
