@@ -2,17 +2,64 @@
 
 Det har varit svårt att få någon julstämning på resan fast alla butiker och köpcenter har dekorationer och spelar julmusik precis som hemma. Men då man är utomlands och det är över 30 grader varmt så infinner sig inte julkänslan. Men det kommer ju flera jular att fira hemma! 
 
+![IMG_20241225_203422_921](https://github.com/user-attachments/assets/1aa78847-4efb-42ee-b36e-c98fdb752cfc)
+
+![IMG_20241225_204242_197](https://github.com/user-attachments/assets/4cc56d89-7522-4007-a991-690e71782858)
+
+
+
 Vi började julafton med att äta hotellfrukost. Efter frukost tog vi skytrain (ett tåg som åker på spår upphöjda från gatan) till Lumpini-parken. Parken var stor och det var trevligt att se lite natur, men den var inte supervälskött och det fanns inga tydliga gångar att gå på, utan istället bilvägar. Man kunde också hyra trampbåtar i en damm, men vi valde att bara gå runt och titta på parken istället. Vi såg flera stora ödlor, varaner, som var häftiga! 
+
+![IMG_20241225_203423_045](https://github.com/user-attachments/assets/5261cfd7-bf51-4cc7-b41d-dcee426ef969)
+
+
+![IMG_20241225_203423_058](https://github.com/user-attachments/assets/9c8238ed-762f-477b-9bfd-d8c288c434fd)
+
+
+![IMG_20241225_203709_391](https://github.com/user-attachments/assets/2287548a-b047-43f4-99f5-dccd0f0da46e)
+
 
 Efter parken så tog vi oss till Jim Thompson house. Jim Thompson var en amerikansk affärsman som bodde i Thailand på 1950 och 60-talen och gjorde thailändskt silke populärt i USA och resten av världen. Hans hem är byggt i traditionell thailändsk stil och fungerar idag som museum. Thompson försvann i Malaysia under mystiska omständigheter 1967. Trädgården och huset var fina och det var kul att se klassisk thailändsk byggnadsstil. 
 
+![IMG_20241225_203423_461](https://github.com/user-attachments/assets/0ec8368b-c18e-4f81-af90-65b2f3449866)
+
+
+![IMG_20241225_203422_997](https://github.com/user-attachments/assets/e1ea70f4-dcf8-4e10-bb6f-6168475491e6)
+
+
+![IMG_20241225_203423_169](https://github.com/user-attachments/assets/f6a26b1c-9d84-4e05-82e8-b1527d194099)
+
+
 Efter besöket gick vi längs en kanal till ett köpcenter i närheten. Där var det liv och rörelse och extremt mycket folk, man blev lätt stressad av att gå omkring bland restaurangerna. Vi åt en lätt lunch och tog oss sedan mot hotellet. 
+
+![IMG_20241225_204222_001](https://github.com/user-attachments/assets/1fc160a9-a766-43e8-9c53-62c983e3d8dd)
+
+
+
+![IMG_20241225_203429_693](https://github.com/user-attachments/assets/98ffc627-e294-43cf-8755-b3082722719a)
+
+
+![IMG_20241225_203422_878](https://github.com/user-attachments/assets/3e839758-7067-4ec4-a90f-e2020f19edc5)
+
 
 Framme på hotellet gick vi till takterrassen och ringde videosamtal hem och önskade god jul! Det var trevligt och förstås kändes det konstigt att man inte själv var hemma i snövädret. 
 
 Sedan gick vi och gjorde oss i ordning för dagens höjdpunkt, nämligen julmiddag! För att fira att det var julafton hade vi bokat in oss på julmiddagsbuffé på ett femstjärnigt hotell. Lite dyrt, men att äta fiskbord på en billig restaurang kändes inte som en bra idé. Vi tog lokaltåget till restaurangen. 
 
 Middagen var jättebra! Vi satt och åt utomhus vid poolen och det fanns ett liveband som spelade bakgrundsmusik hela kvällen, mycket mysigt! Maten var också riktigt bra, det fanns fisk och skaldjur, inklusive gravad lax åt Henrik, olika grytor, en punkt där man fick beställa pasta, en annan punkt där man fick kött, fisk och skaldjur som grillades åt en, samt skinka och lamm. Förstås fanns det också efterrättsbord med bland annat crêpes och glass, plus ost och charkuterier. Man blev verkligen mätt! Vi valde också att ta deras dryckespaket där man fick beställa drycker fritt under den tid man var där, så vi testade deras champagne, vin och drinkar. 
+
+
+![IMG_20241225_203430_228](https://github.com/user-attachments/assets/72872133-fde0-4516-91cf-e472b3fbb49e)
+
+
+![IMG_20241225_203430_198](https://github.com/user-attachments/assets/4002e551-609d-4450-9d15-a010bb462932)
+
+
+![IMG_20241225_203429_583](https://github.com/user-attachments/assets/a80b59b3-c86c-4cba-9402-770dc450ea23)
+
+
+![IMG_20241225_203430_246](https://github.com/user-attachments/assets/03ddb1b0-d3b8-448d-b39e-4fcb4ddfced9)
+
 
 Överlag helt superlyckat och mysigt, vi var väldigt nöjda att vi satsade och for på middagen! Bandet var också jättebra och skapade bra stämning. Efter middagen hoppade vi i en Grab tillbaka till vårt hotell vilket gick smidigt. En annorlunda men lyckad julafton! 
 
