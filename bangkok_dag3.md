@@ -64,7 +64,13 @@ Vi får se hur bekvämt vi sover i natt.
 ![IMG_20241225_203706_296](https://github.com/user-attachments/assets/a1cca806-32a4-41e2-81ef-af1032b13fda)
 
 
-Som stad var Bangkok...
+Bangkok kändes överlag väldigt stort och lite kaotiskt och stökigt. Det fanns mycket människor överallt, speciellt vid sevärdheterna. Vi hade hunnit vänja oss med att det inte är så fullt med folk, för varken Bali (pga. regnperiod), Singapore eller Siem Reap hade supermycket turister då vi var där.
+
+Bangkok var väldigt blandat, det fanns ingen hemskt tydlig uppdelning i "bättre" och "sämre" kvarter  (åtminstone där vi rörde oss), utan moderna skyskrapor varvades med slitna hus med plåtfasad. 
+
+En orsak till att det kändes stort är också att det tog länge att ta sig fram, oavsett transportmedel. Avsaknaden av stadsplanering gör det svårt att ta sig fram gående och att det bildas trafikstockningar. Skytrainen fungerar bra men det tar länge att komma fram och ibland måste man åka konstiga vägar och byta flera gånger. Det smidigaste sättet att ta sig fram var med båt på floden, och vi bodde lämpligt nära en hamn. 
+
+Bangkok var värt ett besök men är nog inte vår nya favoritstad. 
 
 
 ![IMG_20241225_203437_505](https://github.com/user-attachments/assets/88dd08fb-6136-4853-816b-e867e2db4803)
