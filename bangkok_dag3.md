@@ -52,7 +52,6 @@ Själva tågstationen var jättestor men lite konstigt byggd och såg lite ut so
 Sittplatserna hann vi njuta av ca 30 min och sedan gjordes de om till sängar, var man nog rymms och sitta bra.
 Vi får se hur bekvämt vi sover i natt. 
 
-![IMG_20241225_203443_190](https://github.com/user-attachments/assets/6b0ba9b3-fbaa-4a17-b0c3-7f9c388a1272)
 
 
 ![IMG_20241225_203443_565](https://github.com/user-attachments/assets/490838fc-d45b-4074-8763-f4566e3b4b77)
@@ -62,6 +61,8 @@ Vi får se hur bekvämt vi sover i natt.
 
 
 ![IMG_20241225_203706_296](https://github.com/user-attachments/assets/a1cca806-32a4-41e2-81ef-af1032b13fda)
+
+![IMG_20241225_203443_190](https://github.com/user-attachments/assets/6b0ba9b3-fbaa-4a17-b0c3-7f9c388a1272)
 
 
 Bangkok kändes överlag väldigt stort och lite kaotiskt och stökigt. Det fanns mycket människor överallt, speciellt vid sevärdheterna. Vi hade hunnit vänja oss med att det inte är så fullt med folk, för varken Bali (pga. regnperiod), Singapore eller Siem Reap hade supermycket turister då vi var där.
@@ -77,4 +78,6 @@ Bangkok var värt ett besök men är nog inte vår nya favoritstad.
 
 
 ![IMG_20241225_203443_161](https://github.com/user-attachments/assets/0c2603a7-6fd6-4495-8a8b-c42826948213)
+
+_Stop flaggor man kunde plocka med sig för att gå över gatan. Vi så den användas en gång. De va lite oklart vad reglerna för fotgängare var i stan_
 
