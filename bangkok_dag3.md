@@ -79,5 +79,5 @@ Bangkok var värt ett besök men är nog inte vår nya favoritstad.
 
 ![IMG_20241225_203443_161](https://github.com/user-attachments/assets/0c2603a7-6fd6-4495-8a8b-c42826948213)
 
-_Stop flaggor man kunde plocka med sig för att gå över gatan. Vi så den användas en gång. De va lite oklart vad reglerna för fotgängare var i stan_
+_Stopflaggor man kunde plocka med sig för att gå över gatan. Vi så den användas en gång. De va lite oklart vad reglerna för fotgängare var i stan_
 
