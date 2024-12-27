@@ -21,6 +21,9 @@ Wat Jet Lin - ett tempel med en trädgård och damm med fiskar.
 ![IMG_20241227_213752_071](https://github.com/user-attachments/assets/9b43847e-33be-439b-843b-1bc47338c848)
 
 
+![IMG_20241227_213432_146](https://github.com/user-attachments/assets/f651b3d3-9407-41bd-9006-67d4aff0d907)
+
+
 Wat Chedi Luang - till en av byggnaderna tilläts bara män gå in.
 
 ![IMG_20241227_213432_301](https://github.com/user-attachments/assets/c7f66e00-792a-496b-892e-b946fff258ed)
@@ -28,16 +31,15 @@ Wat Chedi Luang - till en av byggnaderna tilläts bara män gå in.
 
 ![IMG_20241227_213432_049](https://github.com/user-attachments/assets/77a33dbf-69fd-4843-b44b-75eb0de81e4e)
 
-
-![IMG_20241227_213432_146](https://github.com/user-attachments/assets/f651b3d3-9407-41bd-9006-67d4aff0d907)
-
-
 Wat Phra Singh - det största och mest utsmyckade templet.
 
 ![IMG_20241227_213439_463](https://github.com/user-attachments/assets/5c9cc1f6-f982-4f27-93bb-7976a473bd12)
 
 
 ![IMG_20241227_213439_767](https://github.com/user-attachments/assets/be74972d-6414-473b-9992-58dc71601121)
+
+
+
 
 
 Three Kings monument - inte ett tempel.
