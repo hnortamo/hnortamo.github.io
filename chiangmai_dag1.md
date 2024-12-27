@@ -59,6 +59,10 @@ Efter en paus på hotellet gick vi och beställde en taxi för att ta oss till W
 
 ![IMG_20241227_213439_077](https://github.com/user-attachments/assets/76bce66d-a3b9-4787-ba05-a34eb8727c86)
 
+![IMG_20241227_215207_149](https://github.com/user-attachments/assets/03a5301c-45f2-45d3-80cd-b37b88720082)
+
+
+_Inte vår bil vår va äldre och skruttigare, vi glömde ta en bild av den..._
 
 Vi fastande i en trafikrusning på vägen men som tur verkade vår chaufför veta en genväg. På vägen stannade vi även vid Wat Pha Lat, ett undangömt tempel vid en fors.
 
@@ -76,10 +80,6 @@ Vi fastande i en trafikrusning på vägen men som tur verkade vår chaufför vet
 
 ![IMG_20241227_213439_876](https://github.com/user-attachments/assets/63efb01e-b70f-481b-8adf-068b830e7955)
 
-![IMG_20241227_215207_149](https://github.com/user-attachments/assets/03a5301c-45f2-45d3-80cd-b37b88720082)
-
-
-_Inte vår bil vår va äldre och skruttigare, vi glömde ta en bild av den..._
 
 Tempel och utsikt vid Doi Suthep.
 
