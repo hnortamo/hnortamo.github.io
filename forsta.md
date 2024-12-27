@@ -23,5 +23,6 @@ permalink: /brollopsresa.html
 - [Bangkok dag 1](/bangkok_dag1)
 - [Bangkok dag 2](/bangkok_dag2)
 - [Bangkok dag 3](/bangkok_dag3)
-
+- [Chiang Mai dag 1](/chiangmai_dag1)
+- [Chiang Mai dag 2](/chiangmai_dag2)
   
