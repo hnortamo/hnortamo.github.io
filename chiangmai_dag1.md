@@ -53,11 +53,15 @@ Three Kings monument - inte ett tempel.
 Efter sightseeingen gick vi och åt lunch, som blev att kosta sammanlagt 140 baht eller 4 € för två personer.
 Sedan gick vi och checkade in på hotellet. Vårt hotell var riktigt fint och fräscht. 
 
+![IMG_20241227_213439_747](https://github.com/user-attachments/assets/a18a4ad7-3167-4198-91ce-5439d4acd478)
+
+
 Efter en paus på hotellet gick vi och beställde en taxi för att ta oss till Wat Phra That Doi Suthep, ett tempel en bit utanför staden på en kulle. Vi tog oss dit med en röd taxi som är en slags ombyggd flakbil. Dessa kallas songthaew och finns överallt i staden.
+
+![IMG_20241227_213439_077](https://github.com/user-attachments/assets/76bce66d-a3b9-4787-ba05-a34eb8727c86)
 
 ![IMG_20241227_213746_208](https://github.com/user-attachments/assets/d1160c96-2e25-4d83-85a4-b9fa5121721a)
 
-![IMG_20241227_213439_077](https://github.com/user-attachments/assets/76bce66d-a3b9-4787-ba05-a34eb8727c86)
 
 ![IMG_20241227_215207_149](https://github.com/user-attachments/assets/03a5301c-45f2-45d3-80cd-b37b88720082)
 
