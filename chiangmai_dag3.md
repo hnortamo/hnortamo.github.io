@@ -1,6 +1,6 @@
 # Chiang Mai dag 3
 
-Idag har vi sett elefanter! För att maximera vår tid i Chiang Mai så bokade vi en tillutflyt till en elegantare till idag. 
+Idag har vi sett elefanter! För att maximera vår tid i Chiang Mai så bokade vi en utflykt till elefanter. 
 
 ![IMG_20241229_214141_398](https://github.com/user-attachments/assets/6f44dabd-951a-4691-b85b-29a7478e645d)
 
