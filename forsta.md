@@ -27,4 +27,5 @@ permalink: /brollopsresa.html
 - [Chiang Mai dag 2](/chiangmai_dag2)
 - [Chiang Mai dag 3](/chiangmai_dag3)
 - [Railay Beach dag 1](/railay_dag1)
-  
+- [Railay Beach dag 2](/railay_dag2)
+- [Phi Phi](/phiphi)
