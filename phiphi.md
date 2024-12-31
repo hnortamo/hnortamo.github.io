@@ -100,3 +100,9 @@ fastän att byta ställe hela tiden också e lite tungt. De hörs dålig dunka d
 
 ![IMG_20241231_232238_512](https://github.com/user-attachments/assets/818d1e61-6eaf-4dcb-a020-5ad5d126fd82)
 
+Vi avslutar kvällen med att titta på fyrverkeri från vår terass.
+
+![IMG_20250101_001121_133](https://github.com/user-attachments/assets/55284e98-8232-448b-ad9a-1095261039b7)
+
+
+
