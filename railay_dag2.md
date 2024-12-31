@@ -14,3 +14,7 @@ vada för att nå en vettig del. Vi simmar och solar.
 Båda bränner axlarna. Efteråt tar vi lunch
 shoppar flipflops och bokar båtbiljett för
 morgondagens resa till Koh Phi Phi.
+
+Middagens underhållning kommer i form av en papegoja på ett bord.
+
+Hotellet vi bodde på hade en snygg pool som vi inte simma i men satt breved och läste böcker som vi tog ur en hög vid respan.
