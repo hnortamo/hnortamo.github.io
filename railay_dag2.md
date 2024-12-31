@@ -2,9 +2,12 @@ Vi vaknade på en paradisö ( Railay är inte en ö men man kommer dit bara med 
 Helt bra inget att klaga på och passlig mängd med
 människor så man vågar äta saker fastän
 det är buffè, man fick också omelett på beställning
-som var riktigt god. Hotellet vi bodde på hade en snygg pool som vi inte simma i men satt breved och läste böcker som vi tog ur en hög vid respan.
+som var riktigt god. Hotellet vi bodde på hade en snygg pool som vi inte simma i, men vi satt breved poolen på eftermiddagen och läste böcker som vi tog ur en hög vid respan.
 
-![IMG_20241231_231929_448](https://github.com/user-attachments/assets/de7d96c8-41d4-490b-b381-23e5f2711add)
+![IMG_20241231_232304_499](https://github.com/user-attachments/assets/8d2faa63-3efb-416e-963a-bc33e7e981f7)
+
+
+![IMG_20241231_231929_448](https://github.com/user-attachments/assets/3cc5f9dd-b125-454b-af7a-b9a6255c45a9)
 
 
 Vi går till stranden ( en annan än den var vi var i går )
