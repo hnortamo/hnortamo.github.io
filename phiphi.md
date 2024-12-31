@@ -104,5 +104,8 @@ Vi avslutar kvällen med att titta på fyrverkeri från vår terass.
 
 ![IMG_20250101_001121_133](https://github.com/user-attachments/assets/55284e98-8232-448b-ad9a-1095261039b7)
 
+![IMG_20250101_001335_518](https://github.com/user-attachments/assets/a3c0a79c-5e8a-4b04-b1a5-78df14aaf90d)
+
+
 
 
