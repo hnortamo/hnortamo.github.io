@@ -1,14 +1,11 @@
-
-
-Vi vaknar efter en semi ok soven natt ( öronproppar behövdes verkligen ). Vi äter morgonmål med snygg utsikt. Det springer
-( vilda? ) hundar i ens fötter och en försöker t.o.m 
+Vi vaknar efter att ha sovit någorlunda okej (öronproppar behövdes verkligen). Vi äter morgonmål med snygg utsikt. Det springer (vilda?) hundar i ens fötter och en försöker t.o.m. 
 hoppa upp för att få mat. Elin e tyvärr ännu sjuk.
 
 ![IMG_20250103_163636_337](https://github.com/user-attachments/assets/d6ff92b9-82b4-458c-bfc9-5dc8a298d6b6)
 
 
-Vi checkar ut och tar den lilla båten igen till hamnen, enorm skillnad på hög och lågvatten. Vi väntar på båten på ett café. Från
-Phi Phi till Koh Lanta så är det som tur bara 30min båtfärd. Vi märker genast att det finns mycket svenskar på Koh Lanta, det första skylten man ser på hamnväggen marknadsför snus. Man hör också mycke Svenska talas när man går runt.
+Vi checkar ut och tar den lilla båten igen till hamnen, det är enorm skillnad på hög- och lågvatten. Vi väntar på båten på ett café. Från
+Phi Phi till Koh Lanta så är det som tur bara 30 min båtfärd. Vi märker genast att det finns mycket svenskar på Koh Lanta, den första skylten man ser på hamnväggen marknadsför svenskt snus. Man hör också mycket svenska talas när man går runt.
 
 ![IMG_20241231_232305_338](https://github.com/user-attachments/assets/17e78b94-a343-40b0-b19d-fc8f8fd15c58)
 
@@ -23,12 +20,12 @@ Phi Phi till Koh Lanta så är det som tur bara 30min båtfärd. Vi märker gena
 
 
 
-Väl i land på Koh Lanta så betalas även här en turistavgift, denna gång dock bara 10 THB. Inbesparade pengarna förloras då taxin för en 5 minuters resa kostar 350 THB. Om man kommer på nytt kan de vara lönt att gå lite längre för att ta en taxi, vägen tillbaka två dagar senare kostade nämligen 150 THB. Själva fordonet är en lustig tuktuk variant med vagnen på sidan.
+Väl i land på Koh Lanta så betalas även här en turistavgift, denna gång dock bara 10 THB. De inbesparade pengarna förloras genast då taxin för en 5 minuters resa till hotellet kostar 350 THB. Om man kommer på nytt kan de vara lönt att gå lite längre för att ta en taxi, vägen tillbaka två dagar senare kostade taxin nämligen 150 THB. Själva fordonet är en lustig tuktukvariant med vagnen på sidan.
 
 ![IMG_20250103_163051_524](https://github.com/user-attachments/assets/bb2fa691-909f-47cd-84ac-378b99b00111)
 
 
-Hotellet är fräsht, vi hade boka en bungalow men vi fick ett normalt rum då föregående gästen tydligen var så sjuk att de inte kunnat checka ut. Rummet vi fick var helt kiva och bungalowna var ganska tätt runt en pool så de störde inte oss.
+Hotellet är fräscht, vi hade bokat en bungalow men vi fick ett normalt rum då föregående gäst tydligen var så sjuk att de inte kunde checka ut. Rummet vi fick var helt kiva och bungalowna var ganska tätt runt en pool så det störde inte oss.
 
 ![IMG_20250103_163052_137](https://github.com/user-attachments/assets/f7ca9727-55ea-4e7d-bfc7-d2316e55a6a1)
 
@@ -37,7 +34,7 @@ Elin orkar på lunch och far sen och vila på rummet. Senare far Henrik och simm
 
 ![IMG_20250103_163644_226](https://github.com/user-attachments/assets/4c6de7bd-e28b-48fe-bb27-d8fb0a5ca1d2)
 
-Vi avslutar kvällen med att titta på solnedgången vid stranden efterföljt av middag. God mat, men av någon orsak så är många restauranger mycket långsamma på Koh Lanta.
+Vi avslutar kvällen med att titta på solnedgången vid stranden efterföljt av middag. God mat, men av någon orsak så är servicen mycket långsam i många restauranger på Koh Lanta.
 
 ![IMG_20250103_163102_338](https://github.com/user-attachments/assets/ac124a00-6be6-41a7-a8ec-85143045f613)
 
