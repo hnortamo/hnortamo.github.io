@@ -64,4 +64,4 @@ ny och god efterrätt.
 ![IMG_20250104_171712_508](https://github.com/user-attachments/assets/5aacec4c-fee4-4fd6-80f7-6a0d5cae1259)
 
 
-Vi har märkt att det finns en enorm mängd specifikt svenskar på Koh Lanta. Man hör svenska överallt, 60% av böckerna i hotellaulan är på Svenska och en servitris talar t.o.m flera svenska fraser vid stranden ( detta var en enorm överraskning då vi ofta haft svårt att hitta människor som ens talar engelska ). På kartan så vi att i vårt närområde så finns t.o.m två svenska skolor med 400 platser som täcker både grundskola och gymnasie.
+Vi har märkt att det finns en enorm mängd venskar på Koh Lanta. Man hör svenska överallt, 60% av böckerna i hotellaulan är på svenska och en servitris talar t.o.m. flera svenska fraser vid stranden (detta var en överraskning då vi ofta haft svårt att hitta människor som ens talar engelska). På kartan såg vi att i vårt närområde så finns det t.o.m. två svenska skolor med 400 platser som täcker både grundskola och gymnasium.
