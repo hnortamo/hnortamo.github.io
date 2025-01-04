@@ -22,8 +22,6 @@ så kommer Henrik runt hörnet var han parkerar sig
 på en Öl och fränären. Sen springer han tillbaka till
 hotellet längs vägen för att äta lunch.
 
-![IMG_20250104_172101_721](https://github.com/user-attachments/assets/b3cf1c6e-72c0-4dc9-8321-cb1a2aa9aafb)
-
 
 ![IMG_20250104_171726_161](https://github.com/user-attachments/assets/a280d00e-2da0-4750-8068-59fd859f7a4c)
 
@@ -50,6 +48,8 @@ hotellet längs vägen för att äta lunch.
 
 
 ![IMG_20250104_171719_190](https://github.com/user-attachments/assets/f3217332-8931-4278-9ac1-bd0883a69852)
+
+![IMG_20250104_172058_489](https://github.com/user-attachments/assets/acb7dbb1-9a3c-4ea7-bdee-31d7755351d4)
 
 
 Henrik e ännu och simmar under solnedgången 
