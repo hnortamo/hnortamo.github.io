@@ -25,7 +25,7 @@ Efter att ha druckit varsin drink vid hotellets poolbar samt duschat av oss sand
 ![IMG_20250104_221944_665](https://github.com/user-attachments/assets/8476789e-c6d8-4e93-97b4-dc3b2bf899fe)
 
 
-![IMG_20250104_223000_106](https://github.com/user-attachments/assets/4b3a518a-0be0-40e3-a791-90886026155f)
+![IMG_20250104_223748_137](https://github.com/user-attachments/assets/705538f3-6940-4ae5-82c5-a98088f2a39a)
 
 
 ![IMG_20250104_223003_235](https://github.com/user-attachments/assets/3312a869-8df8-4b27-befe-6a22d7a7a5bc)
