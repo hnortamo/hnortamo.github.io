@@ -18,10 +18,12 @@ hoppade av nästan längs med vår rutt så den delade
 skjutsen var inte långsammare än en privat.
 
 Vi har tur och får checka in direkt,
-hotellet ser fräscht ut och vi är nöjda med rummet.
+hotellet ser fräscht ut och vi är nöjda med rummet ( nu faktiskt en bungalow).
 Det finns tre olika pooler och en restaurang var vi
-bestämmer ta lunch. Hotellet är på en kulle
-så vägen att gå ner till stranden eller butiks gatorna
+bestämmer ta lunch. Efter det får vi en välkomstdrink och sen sitter vi och läser vid poolen. Böckerna hittades åter igen från hotellets delade bokhylla.
+
+Hotellet är på en kulle
+så vägen att gå ner till stranden eller butiksgatorna
 är relativt brant.
-Elin mår ren bättre, och vi räknar med att
+Elin mår lite bättre fastän dagen nog var tung, och vi räknar med att
 Henrik inte har blivit smittad🤞
