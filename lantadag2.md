@@ -1,4 +1,6 @@
-Efter morgonmålet blir Elin och vila på rummet
+# Koh Lanta dag 2
+
+Efter morgonmålet stannar Elin och vila på rummet
 medan Henrik tar sig ut på äventyr.
 
 Det finns en bit kust och klippor mellan 
@@ -11,15 +13,15 @@ denna väg.
 ![IMG_20250104_172101_721](https://github.com/user-attachments/assets/034c895e-f806-43e6-bef7-28f58383e46a)
 
 
-De fin orörd strand och klippor, ställvis
+Det finns fin orörd strand och klippor, ställvis
 får man vada eller gå längs hala stenar.
 Några gånger hamnar man klättra/bouldra på riktigt,
 men som tur är klippan här grov så man hittar relativt
 lätt skrevor var man får ett hand eller fotfäste.
-Sandaler var inte optimalaste skoval men det går.
+Sandaler var inte det mest optimala skovalet men det går.
 Efter en längre och tyngre färd en förväntat
 så kommer Henrik runt hörnet var han parkerar sig
-på en Öl och fränären. Sen springer han tillbaka till
+på en öl och fränären. Sen springer han tillbaka till
 hotellet längs vägen för att äta lunch.
 
 
@@ -52,10 +54,10 @@ hotellet längs vägen för att äta lunch.
 ![IMG_20250104_172058_489](https://github.com/user-attachments/assets/acb7dbb1-9a3c-4ea7-bdee-31d7755351d4)
 
 
-Henrik e ännu och simmar under solnedgången 
+Henrik far ännu och simmar under solnedgången 
 och sen äter vi god middag som dock igen 
-tog en evighet att komma, men banan vårrullar var en
-ny och god efterrät.
+tog en evighet att komma, men bananvårrullar var en
+ny och god efterrätt.
 
 ![IMG_20250104_171709_332](https://github.com/user-attachments/assets/8e40eb92-67dc-4b7d-8eb9-474c023abe6b)
 
