@@ -29,3 +29,5 @@ permalink: /brollopsresa.html
 - [Railay Beach dag 1](/railay_dag1)
 - [Railay Beach dag 2](/railay_dag2)
 - [Phi Phi](/phiphi)
+- [Koh Lanta dag 1](/lantadag1.md)
+- [Koh Lanta dag 2](/lantadag2.md)
