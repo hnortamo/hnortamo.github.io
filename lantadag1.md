@@ -1,3 +1,5 @@
+# Koh Phi Phi till Koh Lanta
+
 Vi vaknar efter att ha sovit någorlunda okej (öronproppar behövdes verkligen). Vi äter morgonmål med snygg utsikt. Det springer (vilda?) hundar i ens fötter och en försöker t.o.m. 
 hoppa upp för att få mat. Elin e tyvärr ännu sjuk.
 
