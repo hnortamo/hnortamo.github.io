@@ -23,6 +23,8 @@ Vi ser väldigt mycket fiskar i olika färger, och de verkar inte bry sig fast m
 
 ![IMG_20250107_082748_130](https://github.com/user-attachments/assets/9a9e1fc7-ac49-4506-b98e-7a0956d732e2)
 
+![IMG_20250107_082747_954](https://github.com/user-attachments/assets/9f7b9fda-a110-47f8-829e-a703e61b37b5)
+
 
 Vi äter lunch på Ya Nui och åker sen tillbaka. Efter att ha duschat bort saltvatten ur håret så går vi till poolen och läser en stund. Det är mera molnigt idag så inte like stekhett som igår. 
 
