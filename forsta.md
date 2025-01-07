@@ -33,3 +33,5 @@ permalink: /brollopsresa.html
 - [Koh Lanta dag 2](/lantadag2)
 - [Phuket dag 1](/phuket_dag1)
 - [Phuket dag 2](/phuket_dag2)
+- [Phuket dag 3](/phuket_dag3)
+- [Phuket dag 4](/phuket_dag4)
