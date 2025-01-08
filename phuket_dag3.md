@@ -1,4 +1,4 @@
-# Phuket dag 3
+# Phuket dag 2
 
 Vi börjar dagen med dinosaurieminigolf, nytt försök efter att det var rusning igår kväll. Strax efter öppnandet kl. 10 är det betydligt mindre folk, även om det går några människor förbi (och är i vägen), eftersom man kan betala in sig för att titta på dinosaurierna utan att spela minigolf. Banan har alltså dinosaurietema, och utförandet är imponerande. Banan går upp och ner, genom grottor och över vatten, och dinosaurierna rör på sig och låter då man kommer nära. Väldigt häftigt! Det blir en jämn match men Elin vinner med tre slag. Poängen räknas ihop över en öl på ställets bar, som också går i samma tema. 
 
