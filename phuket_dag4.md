@@ -1,4 +1,4 @@
-# Phuket dag 4
+# Phuket dag 3
 
 Jag har haft som mål att snorkla under resan, och vi har funderat en hel del på var vi ska göra det. Planen var att snorkla på Phi Phi-öarna eller Koh Lanta, men då jag var sjuk så blev det inte av. Kata beach är inget vidare för snorkling, och då vi kollat på snorklingsturer så går de flesta till nån närliggande ö, vilket gör att man måste ta taxi till en hamn och sedan båt, så det blir en heldagsutflykt av det hela. Vi har ingen större lust att åka till flera öar eftersom vi redan gjort vår öhoppning. Då vi snackar med en kille i hotellets reception om saken så tipsar han om att Ya Nui-stranden är bra för snorkling, och den är bara ca 20 min bort med bil. 
 
