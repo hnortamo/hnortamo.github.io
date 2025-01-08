@@ -1,4 +1,4 @@
-# Phuket dag 2
+# Phuket dag 1
 
 Jag börjar äntligen återvända till livet efter att i fyra dagar tittat på insidan av olika hotellrum och kämpat mig igenom båtresorna mellan de olika öarna på vår öhoppning. Jag har haft klassisk förkylning, hur man nu lyckas få det här i södern. Jag såg inte särskilt mycket av Phi Phi och Koh Lanta, men i alla fall hade vi inte planerat in något specifikt vi ville se. Förutom att snorkla men det kan vi förhoppningsvis göra på Phuket.
 
