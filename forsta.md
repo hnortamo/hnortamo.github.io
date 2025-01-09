@@ -35,3 +35,5 @@ permalink: /brollopsresa.html
 - [Phuket dag 1](/phuket_dag2)
 - [Phuket dag 2](/phuket_dag3)
 - [Phuket dag 3](/phuket_dag4)
+- [Phuket dag 4](/phuket_dag5)
+- [Phuket dag 5](/phuket_dag6)
