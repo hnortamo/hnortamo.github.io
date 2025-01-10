@@ -1,4 +1,4 @@
-# Phuket dag 6 och hemresan.
+# Phuket dag 6 och hemresan
 
 
 Vår sista dag av resan och i Phuket! Direkt efter frukost gick vi till stranden för att hinna ta ett sista dopp för det var dags att packa och checka ut. Vädret var perfekt igen och vi hann simma och sola en timme på stranden. 
@@ -43,9 +43,6 @@ Vi gick och åt lunch, och sedan parkerade vi oss vid hotellets pool. Elin gick 
 Efter våra sista portioner curry med ris för den här gången gick vi till hotellet och bytte om till resekläder. Samtidigt hade receptionen tydligen till sist  lokaliserat våra barkvitton så vi kvitterade den räkningen. Efter det hoppade vi in i vår förbeställda taxi till flygfältet. 
 
 
-![IMG_20250110_114606_075](https://github.com/user-attachments/assets/bd72a45a-2e1b-4904-9386-d168974784cf)
-
-
 ![IMG_20250110_114605_563](https://github.com/user-attachments/assets/0bb72bd2-380f-4fde-a1e3-29af24f5a5c2)
 
 
@@ -55,37 +52,34 @@ Efter våra sista portioner curry med ris för den här gången gick vi till hot
 ![IMG_20250110_114605_214](https://github.com/user-attachments/assets/6b65e802-26c5-45d3-9362-37ebac1e6e01)
 
 
-För att ta oss till flygfältet hade vi förboka en taxi via hotellet. Killen vi respan fundera att de tar en till en och en halv timme att köra till flygfältet men sa att vi sku kolla med
-personalen som ansvara för att boka taxin. Det var helt bra
-då personen i frågan informera oss att det lätt kan ta två timmar
-till flygfältet, så vi boka med marginal. Sist och slutligen så tog den 42km långa
-färden 1h 50 min. Taxi-resan gick bra, en del rusning
+För att ta oss till flygfältet hade vi förbokat en taxi via hotellet. Killen i receptionen funderade att de tar en till en och en halv timme att köra till flygfältet, men sa att vi sku kolla med
+personalen som ansvarade för att boka taxin. Det var helt bra
+då personen i fråga informerade oss om att det lätt kan ta två timmar
+till flygfältet, så vi bokade med extra marginal. Sist och slutligen så tog den 42km långa
+färden 1h 50 min. Taxiresan gick ändå bra, en del rusning
 men bara en vanlig dag enligt vår kusk.
 
 ![IMG_20250110_114620_300](https://github.com/user-attachments/assets/de203e96-94e1-42d9-86a3-e17aacc9c4c2)
 
 
-Vid flygfältet blir vi överraskade av hur lång kö
-det är vid bagdroppen då vi var på plats 2.5 timmar
+Vid flygfältet blev vi överraskade av hur lång kö
+det bar vid bagdroppen då vi var på plats 2,5 timmar
 före planet skulle fara. Av någon okänd anledning
-( kan bero på att vi var 12h sena så passagerare som skulle vidare
-kanske hade något strul ) rörde sig kön otroligt långsamt.
-Efter Ca 1h köande var det äntligen vår tur. Vi fick vouchers för mat
-p.g.a förseningen som vi dock hann knappt använda då efter att 
-emigration och security checken tog lite över 30 min 
-så var vi vid gaten 10 min före den skulle öppnas.
+(kan ha berott på att vi var 13 h sena och passagerare som skulle vidare från Helsingfors kanske hade något strul) rörde sig kön otroligt långsamt.
+Efter ca 1h köande var det äntligen vår tur. Vi fick vouchers för mat
+pga. förseningen som vi dock knappt hann använda. Passkontrollen och säkerhetskontrollen tog lite över 30 min så vi var vid gaten 10 min före den skulle öppnas.
 
-Vi handlar snabbt en mango sticky rice och lite
+Vi handlade snabbt en mango sticky rice och lite
 andra snacks och stiger på planet. Som förväntat
-så får vi middag ( den trevliga tiden 01:00 ) när vi e i luften.
+så fick vi middag (den trevliga tiden 01:00) när vi e i luften.
 Middagen var riktigt god. Efter det snabbar vi upp resan med att
-ta en 7 timmars tupplur. När vi vaknar hinner vi bra med att äta
-frukost och se på en film, sen e vi typ framme.
+försöka ta en 7 timmars tupplur. När vi vaknar hinner vi äta
+frukost och se på en film, sen är vi framme.
 
 ![IMG_20250110_114619_914](https://github.com/user-attachments/assets/a6a4a0a9-93a3-4bb8-8ea8-a4c66e34a174)
 
 
-Från flygfältet tar vi för första gången en Bolt, det finns nuförtiden bra skyltar till vart man kan beställa dem. Vi äter snabbt morgonmål i Westend och tar sen en helt för billig Bolt till järnvägsstationen ( 9.20€ ) 
+För första gången testar vi att ta Bolt från flygfältet, det finns nuförtiden bra skyltat vart man kan beställa dem. Vi äter snabbt morgonmål i Westend och tar sen en helt för billig Bolt till järnvägsstationen (9.20€) 
 
 Så efter:
 
@@ -95,7 +89,7 @@ Så efter:
 - 11 hotell
 - En hel drös med fordon: bil, buss, tåg, moped, tuktuk i flera varianter, båt.
 
-Och oräkneliga härliga upplevelser
+Samt oräkneliga härliga upplevelser
 är vi tillbaka hemma.
 
 Vi har rest uppskattningsvis:
@@ -105,5 +99,4 @@ Vi har rest uppskattningsvis:
 - 260 km på hav
 
 ![IMG_20250110_114620_585](https://github.com/user-attachments/assets/b92dd232-27af-4a47-b65f-b8f7448179d6)
-
 
