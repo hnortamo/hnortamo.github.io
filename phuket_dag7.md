@@ -29,4 +29,13 @@ frukost och se på en film, sen e vi typ framme.
 
 Från flygfältet tar vi för första gången en Bolt, det finns nuförtiden bra skyltar till vart man kan beställa dem. Vi äter snabbt morgonmål i Westend och tar sen en helt för billig Bolt till järnvägsstationen ( 9.20€ ) 
 
+Så efter:
 
+- 33 dagar
+- 5 flygresor
+- 4 länder
+- 11 hotell
+- En hel drös med fordon: bil, buss, tåg, moped, tuktuk i flera varianter, båt.
+
+Och oräkneliga härliga upplevelser
+är vi tillbaka hemma.
