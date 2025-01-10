@@ -100,3 +100,6 @@ Vi har rest uppskattningsvis:
 
 ![IMG_20250110_114620_585](https://github.com/user-attachments/assets/b92dd232-27af-4a47-b65f-b8f7448179d6)
 
+![IMG_20250110_133333_063](https://github.com/user-attachments/assets/8982bd80-1511-43cf-a3fa-20a579813f36)
+
+
