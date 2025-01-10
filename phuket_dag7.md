@@ -1,9 +1,9 @@
 # Phuket dag 6 och hemresan.
 
 
-För att ta oss till flygfältet hade vi förboka en taxi via hotellet.
-Killen vi respan fundera att de tar en till en och en halv timme
-att köra till flygfältet men sa att vi sku kolla med
+Vi börjar dagen med en snabb visit till stranden för att sola och doppa oss. 
+
+För att ta oss till flygfältet hade vi förboka en taxi via hotellet. Killen vi respan fundera att de tar en till en och en halv timme att köra till flygfältet men sa att vi sku kolla med
 personalen som ansvara för att boka taxin. Det var helt bra
 då personen i frågan informera oss att det lätt kan ta två timmar
 till flygfältet, så vi boka med marginal. Sist och slutligen så tog den 42km långa
@@ -26,5 +26,7 @@ så får vi middag ( den trevliga tiden 01:00 ) när vi e i luften.
 Middagen var riktigt god. Efter det snabbar vi upp resan med att
 ta en 7 timmars tupplur. När vi vaknar hinner vi bra med att äta
 frukost och se på en film, sen e vi typ framme.
+
+Från flygfältet tar vi för första gången en Bolt, det finns nuförtiden bra skyltar till vart man kan beställa dem. Vi äter snabbt morgonmål i Westend och tar sen en helt för billig Bolt till järnvägsstationen ( 9.20€ ) 
 
 
