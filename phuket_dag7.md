@@ -1,7 +1,13 @@
 # Phuket dag 6 och hemresan.
 
 
-Vi börjar dagen med en snabb visit till stranden för att sola och doppa oss. 
+Vår sista dag av resan och i Phuket! Direkt efter frukost gick vi till stranden för att hinna ta ett sista dopp för det var dags att packa och checka ut. Vädret var perfekt igen och vi hann simma och sola en timme på stranden. 
+
+Sen gick vi för att packa väskorna, och checkade ut kl. 12. Utcheckning tog väldigt lång tid, för ingen i personalen kunde hitta kvittona för några drinkar som vi beställt i poolbaren och satt upp på rummet. Efter att de hade ringt runt och funderat på detta ca en halvtimme så sa de att vi kunde därifrån då de inte hittade något. 
+
+Vi gick och åt lunch, och sedan parkerade vi oss vid hotellets pool. Elin gick ännu på en thaimassage och fick håret flätat. Sen njöt vi av solen vid poolen tills det var dags att äta middag. 
+
+Efter våra sista portioner curry med ris för den här gången gick vi till hotellet och bytte om till resekläder. Samtidigt hade receptionen tydligen till sist  lokaliserat våra barkvitton så vi kvitterade den räkningen. Efter det hoppade vi in i vår förbeställda taxi till flygfältet. 
 
 För att ta oss till flygfältet hade vi förboka en taxi via hotellet. Killen vi respan fundera att de tar en till en och en halv timme att köra till flygfältet men sa att vi sku kolla med
 personalen som ansvara för att boka taxin. Det var helt bra
