@@ -39,3 +39,10 @@ Så efter:
 
 Och oräkneliga härliga upplevelser
 är vi tillbaka hemma.
+
+Vi har rest uppskattningsvis:
+
+- 25 000 km i luften
+- 2700 km på land
+- 260 km på hav
+
