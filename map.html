@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Leaflet Quick Start Guide Example</title>
+  <meta charset="utf-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!--   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+  -->
+   <link rel="stylesheet" href="/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+
+</head>
+<body>
+  <div id="map" style="width: 1920px; height: 1500px"></div>
+
+ <!-- <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+ -->
+  <script src="/leaflet.js"></script>
+  <script>
+	   var map = L.map('map').setView([51.505, 60], 5);
+//	   fetch('http://localhost:8000/custom.geo.json')
+	   fetch('/europe-asia-large.json')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.json(); 
+  })
+  .then(data => {
+	var lander = data.features
+	  for (let i = 0; i < lander.length; i++) {
+		L.geoJSON(lander[i]).addTo(map)	
+	  }
+    // Process the JSON data here
+    console.log(data.features); 
+    // ... further logic using the data
+  })
+  .catch(error => {
+    console.error('There has been a problem with your fetch operation:', error);
+  });
+
+  var supercomputers = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LUMI",
+        "description": "Kajaani, Finland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.727850, 64.222176] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vega",
+        "description": "Maribor, Slovenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.6412, 46.5547] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MeluXina",
+        "description": "Bissen, Luxembourg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1319, 49.6116] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Discoverer",
+        "description": "Sofia, Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3218, 42.6977] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karolina",
+        "description": "Ostrava, Czech Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.2555, 49.8420] 
+      }
+    }
+  ]
+}
+
+var travellocations= {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.42,
+          63.4
+        ]
+      },
+      "properties": {
+        "name": "Pietarsaari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.945831,
+          60.192059
+        ]
+      },
+      "properties": {
+        "name": "Helsinki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97953,
+          41.015137
+        ]
+      },
+      "properties": {
+        "name": "Istanbul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1675,
+          -8.74817
+        ]
+      },
+      "properties": {
+        "name": "Bali International Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.263298,
+          -8.519268
+        ]
+      },
+      "properties": {
+        "name": "Ubud on Bali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851959,
+          1.29027
+        ]
+      },
+      "properties": {
+        "name": "Singapore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860313,
+          13.364047
+        ]
+      },
+      "properties": {
+        "name": "Siem Reap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.523186,
+          13.736717
+        ]
+      },
+      "properties": {
+        "name": "Bangkok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.979263,
+          18.796143
+        ]
+      },
+      "properties": {
+        "name": "Chiang Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.31667,
+          8.11306
+        ]
+      },
+      "properties": {
+        "name": "Phuket Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.837196,
+          8.012616
+        ]
+      },
+      "properties": {
+        "name": "Railay Beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7786,
+          7.7529
+        ]
+      },
+      "properties": {
+        "name": "Koh Phi Phi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.079224,
+          7.624368
+        ]
+      },
+      "properties": {
+        "name": "Koh Lanta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		98.2968, 7.8206
+        ]
+      },
+      "properties": {
+        "name": "Kata Beach"
+      }
+    }
+  ]
+}
+
+
+//	  for (let i = 0; i < supercomputers.features.length; i++) {
+//		coord = supercomputers.features[i].geometry.coordinates
+//		  L.marker([coord[1],coord[0]]).addTo(map);
+	//	L.marker([49.84,18.25]).addTo(map);
+
+	 // }
+
+	  for (let i = 0; i < travellocations.features.length-1; i++) {
+	   startPoint=[travellocations.features[i].geometry.coordinates[1],travellocations.features[i].geometry.coordinates[0]];
+	   endPoint=[travellocations.features[i+1].geometry.coordinates[1],travellocations.features[i+1].geometry.coordinates[0]];
+	   var polyline = L.polyline([startPoint, endPoint], { color: "red",
+    weight: 2,
+    smoothFactor: 1}).addTo(map);
+	  }
+	  for (let i = 0; i < travellocations.features.length; i++) {
+		coord = travellocations.features[i].geometry.coordinates
+		  name = travellocations.features[i].properties.name
+		  L.marker([coord[1],coord[0]]).bindPopup("<b>"+name+"</b>").addTo(map);
+
+	  }
+
+
+  </script>
+</body>
+</html>
