@@ -310,7 +310,10 @@ var travellocations= {
 	  for (let i = 0; i < travellocations.features.length; i++) {
 		coord = travellocations.features[i].geometry.coordinates
 		  name = travellocations.features[i].properties.name
-		  L.marker([coord[1],coord[0]]).bindPopup("<b>"+name+"</b>").addTo(map);
+		  L.circleMarker([coord[1],coord[0]],
+			{ color: 'red',
+        		fillColor: '#f03',}
+		  ).bindPopup("<b>"+name+"</b>").addTo(map);
 
 	  }
 
