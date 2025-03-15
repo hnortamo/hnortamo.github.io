@@ -4,132 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Gallery</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .gallery {
-            display: grid;
-            gap: 10px;
-            overflow-y: scroll;
-            height: 80vh;
-            padding: 10px;
-            border: 1px solid #ccc;
-        }
-        .gallery img {
-            width: 100%;
-            cursor: pointer;
-            height: 150px;
-            object-fit: cover;
-            transition: transform 0.2s;
-        }
-        .gallery img:hover {
-            transform: scale(1.1);
-        }
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.8);
-            justify-content: center;
-            align-items: center;
-        }
-        .modal img {
-            max-width: 90%;
-            max-height: 90%;
-        }
-         .arrow {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            font-size: 2em;
-            color: white;
-            cursor: pointer;
-            user-select: none;
-        }
-        .arrow.left {
-            left: 10px;
-        }
-        .arrow.right {
-            right: 10px;
-        }
-           @media (min-width: 1200px) {
-            .gallery {
-                grid-template-columns: repeat(8, 1fr);
-            }
-        }
-        @media (min-width: 992px) and (max-width: 1199px) {
-            .gallery {
-                grid-template-columns: repeat(6, 1fr);
-            }
-        }
-        @media (min-width: 768px) and (max-width: 991px) {
-            .gallery {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-        @media (max-width: 767px) {
-            .gallery {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="/assets/css/gallery.css">
+    <style> </style>
 </head>
 <body>
-  <a href="/brollop/bilder-0">First look och porträtt</a> || <a href="/brollop/bilder-1">Vigsel</a> || <a href="/brollop/bilder-2"> Middag </a>
+  <a href="/brollop/bilder-0">Förberedelser</a> || <a href="/brollop/bilder-1">First look och porträtt</a> || <a href="/brollop/bilder-2">Vigsel</a> || <a href="/brollop/bilder-3"> Middag </a>
     <div class="gallery">
-<img src="https://github.com/user-attachments/assets/6f44dabd-951a-4691-b85b-29a7478e645d" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/d30c210e-a0fc-4967-bb92-1af3d255cb3e" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/64de6ad0-d01b-475d-b115-67702f7fcb50" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/0d264e39-b706-4aa1-9078-a12bd87ba464" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/eabc63c5-1a40-4567-aeb4-6e8b7da5226e" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/7c06eca1-106a-4b72-94b7-c8d8ba5f1f32" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/c91f21b3-6d06-4422-9513-a92a08606691" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/e7b85951-982e-49cb-ab5d-802772d93b77" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/644e3816-b743-484e-bd6b-180ea941681b" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/1213275a-8e71-4c2a-b5c0-e001f08cc1e4" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/5d3a60e7-9ffb-4492-af9b-16994671f777" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/17617890-5460-44aa-9b59-03ec84cb1761" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/ba560abf-9521-4f82-87ba-1223e10853d2" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/8200dc79-18b6-4bef-90c1-e3c008254fbb" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/453dc49d-95af-451c-9220-5db57d8ae523" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/3e970a1e-eb9a-4149-87ee-af81789c18ac" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/6f44dabd-951a-4691-b85b-29a7478e645d" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/d30c210e-a0fc-4967-bb92-1af3d255cb3e" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/64de6ad0-d01b-475d-b115-67702f7fcb50" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/0d264e39-b706-4aa1-9078-a12bd87ba464" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/eabc63c5-1a40-4567-aeb4-6e8b7da5226e" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/7c06eca1-106a-4b72-94b7-c8d8ba5f1f32" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/c91f21b3-6d06-4422-9513-a92a08606691" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/e7b85951-982e-49cb-ab5d-802772d93b77" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/644e3816-b743-484e-bd6b-180ea941681b" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/1213275a-8e71-4c2a-b5c0-e001f08cc1e4" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/5d3a60e7-9ffb-4492-af9b-16994671f777" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/17617890-5460-44aa-9b59-03ec84cb1761" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/ba560abf-9521-4f82-87ba-1223e10853d2" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/8200dc79-18b6-4bef-90c1-e3c008254fbb" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/453dc49d-95af-451c-9220-5db57d8ae523" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/3e970a1e-eb9a-4149-87ee-af81789c18ac" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/6f44dabd-951a-4691-b85b-29a7478e645d" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/d30c210e-a0fc-4967-bb92-1af3d255cb3e" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/64de6ad0-d01b-475d-b115-67702f7fcb50" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/0d264e39-b706-4aa1-9078-a12bd87ba464" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/eabc63c5-1a40-4567-aeb4-6e8b7da5226e" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/7c06eca1-106a-4b72-94b7-c8d8ba5f1f32" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/c91f21b3-6d06-4422-9513-a92a08606691" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/e7b85951-982e-49cb-ab5d-802772d93b77" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/644e3816-b743-484e-bd6b-180ea941681b" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/1213275a-8e71-4c2a-b5c0-e001f08cc1e4" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/5d3a60e7-9ffb-4492-af9b-16994671f777" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/17617890-5460-44aa-9b59-03ec84cb1761" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/ba560abf-9521-4f82-87ba-1223e10853d2" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/8200dc79-18b6-4bef-90c1-e3c008254fbb" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/453dc49d-95af-451c-9220-5db57d8ae523" onclick="enlargeImage(this)" width="12%">
-<img src="https://github.com/user-attachments/assets/3e970a1e-eb9a-4149-87ee-af81789c18ac" onclick="enlargeImage(this)" width="12%">
-        <!-- Add more images as needed -->
+<img src="/images/forberedelser/Elin_Henrik-1.jpg" onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-2.jpg" onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-3.jpg" onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-4.jpg" onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-5.jpg" onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-6.jpg" onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-7.jpg" onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-8.jpg" onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-9.jpg" onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-10.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-11.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-12.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-13.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-14.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-15.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-16.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-17.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-18.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-19.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-20.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-21.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-22.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-23.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-24.jpg"  onclick="enlargeImage(this)" >
+<img src="/images/forberedelser/Elin_Henrik-25.jpg"  onclick="enlargeImage(this)" >
     </div>
 
     <div class="modal" id="modal">
@@ -138,45 +43,7 @@
         <span class="arrow right" onclick="showImage(currentIndex + 1)">&#9654;</span>
     </div>
 
-    <script>
-       let currentIndex = 0;
-        const images = document.querySelectorAll('.gallery img');
 
-        function enlargeImage(img) {
-            const modal = document.getElementById('modal');
-            const modalImage = document.getElementById('modalImage');
-            modalImage.src = img.src;
-            modal.style.display = 'flex';
-            currentIndex = Array.from(images).indexOf(img);
-        }
-
-        function closeModal() {
-            const modal = document.getElementById('modal');
-            modal.style.display = 'none';
-        }
-
-        function showImage(index) {
-            if (index >= 0 && index < images.length) {
-                const modalImage = document.getElementById('modalImage');
-                modalImage.src = images[index].src;
-                currentIndex = index;
-            }
-        }
-               document.getElementById('modal').addEventListener('click', function(event) {
-            if (event.target === this) {
-                closeModal();
-            }
-        });
-
-        document.addEventListener('keydown', function(event) {
-            if (document.getElementById('modal').style.display === 'flex') {
-                if (event.key === 'ArrowRight') {
-                    showImage(currentIndex + 1);
-                } else if (event.key === 'ArrowLeft') {
-                    showImage(currentIndex - 1);
-                }
-            }
-        });
-    </script>
+    <script type="text/javascript" src="/assets/js/gallery.js"></script>
 </body>
 </html>
