@@ -42,6 +42,21 @@
             max-width: 90%;
             max-height: 90%;
         }
+         .arrow {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 2em;
+            color: white;
+            cursor: pointer;
+            user-select: none;
+        }
+        .arrow.left {
+            left: 10px;
+        }
+        .arrow.right {
+            right: 10px;
+        }
     </style>
 </head>
 <body>
@@ -97,8 +112,10 @@
         <!-- Add more images as needed -->
     </div>
 
-    <div class="modal" id="modal" onclick="closeModal()">
+    <div class="modal" id="modal">
+        <span class="arrow left" onclick="showImage(currentIndex - 1)">&#9664;</span>
         <img id="modalImage" src="" alt="Enlarged Image">
+        <span class="arrow right" onclick="showImage(currentIndex + 1)">&#9654;</span>
     </div>
 
     <script>
@@ -125,6 +142,11 @@
                 currentIndex = index;
             }
         }
+               document.getElementById('modal').addEventListener('click', function(event) {
+            if (event.target === this) {
+                closeModal();
+            }
+        });
 
         document.addEventListener('keydown', function(event) {
             if (document.getElementById('modal').style.display === 'flex') {
