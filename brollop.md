@@ -13,7 +13,7 @@ Tack för att ni var med och firade vår dag med oss!
 
 ## Bröllopsbilder
 
-Här hittar ni ett galleri med bilder från brölloppet: [Till galleriet](/brollopbilder)
+Här hittar ni ett galleri med bilder från brölloppet: [Till galleriet](/brollop/bilder-0)
 
 Om ni hittar er själv på en bild och skulle vilja ha en 
 högre upplösning är det bara att fråga.
