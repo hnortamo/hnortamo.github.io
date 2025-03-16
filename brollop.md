@@ -1,6 +1,6 @@
 ---
 # example 404.md
-layout: default
+layout: single
 permalink: /brollop.html
 ---
 
