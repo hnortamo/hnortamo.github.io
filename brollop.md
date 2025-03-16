@@ -4,8 +4,6 @@ layout: single
 permalink: /brollop.html
 ---
 
-# Tackkort 
-
 Tack för att ni var med och firade vår dag med oss! 
 
 ![Tack](/images/brollop.png)
