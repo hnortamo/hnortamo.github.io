@@ -35,17 +35,20 @@
               width: 300px
             }
         }
+    html, body {
+   height: 100%;
+}
 </style>
 
 </head>
 <body>
-  <div id="map" style="width: 1920px; height: 1500px"></div>
+  <div id="map" style="height: 100%"></div>
 
  <!-- <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
  -->
   <script src="/leaflet.js"></script>
   <script>
-	   var map = L.map('map').setView([51.505, 60], 5);
+	   var map = L.map('map').setView([1.284280,103.866050], 5);
      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -100,16 +103,26 @@
 {color: 'black', weight: '3',  dashArray: '20, 20', dashOffset: '0'}
      ).addTo(map);
 	  }
+    slugmap = new Map();
 	  for (let i = 0; i < travellocations.features.length; i++) {
 		coord = travellocations.features[i].geometry.coordinates
+      slug = travellocations.features[i].properties.slug
 		  name = travellocations.features[i].properties.name
-		  L.circleMarker([coord[1],coord[0]],
-			{ color: 'red',
-        		fillColor: '#f03',}
-      ).bindPopup("<b>"+name+'</b><br><div class="icont"><img src='+travellocations.features[i].properties.imagelink+" width=100%> </div>",{
+      dayname = travellocations.features[i].properties.dayname
+      daylink = travellocations.features[i].properties.daylink
+//		  Marker = L.circleMarker([coord[1],coord[0]],
+//			{ color: 'red',
+//        		fillColor: '#f03',}
+//      ).bindPopup("<b>"+name+'</b><br><div class="icont"><img src='+travellocations.features[i].properties.imagelink+" width=100%> </div>",{
+//  maxWidth: "auto"
+//})
+		  Marker = L.marker([coord[1],coord[0]]
+      ).bindPopup("<h2>"+name+'</h2><br>'+"<a href="+daylink+'>'+dayname+'</a><br>'+'<div class="icont"><img src='+travellocations.features[i].properties.imagelink+" width=100%> </div>",{
   maxWidth: "auto"
-}).addTo(map);
+})
 
+    Marker.addTo(map);
+    slugmap.set(slug,{"lat":coord[1],"long":coord[0],"marker":Marker})
 	  }
 
       const queryString = window.location.search;
@@ -125,6 +138,7 @@
       coord = travellocations.features[i].geometry.coordinates
       if (  slug == urlParams.get('slug')  ) {
         map.flyTo([coord[1],coord[0]],13)
+        slugmap.get(slug).marker.openPopup();
       }
     }
 
