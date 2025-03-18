@@ -17,20 +17,20 @@
 
         @media (min-width: 1200px) {
             .icont {
-              width: 500px
+              width: 600px
             }
         }
         @media (min-width: 992px) and (max-width: 1199px) {
             .icont {
+              width: 500px
+            }
+        }
+        @media (min-width: 600px) and (max-width: 991px) {
+            .icont {
               width: 400px
             }
         }
-        @media (min-width: 768px) and (max-width: 991px) {
-            .icont {
-              width: 300px
-            }
-        }
-        @media (max-width: 767px) {
+        @media (max-width: 600px) {
             .icont {
               width: 300px
             }
@@ -112,11 +112,6 @@
 
 	  }
 
-  })
-  .catch(error => {
-    console.error('There has been a problem with your fetch operation:', error);
-  });
-
       const queryString = window.location.search;
      const urlParams = new URLSearchParams(queryString);
      if (urlParams.has('lat')){
@@ -124,6 +119,21 @@
       const lon = urlParams.get('long')
       map.flyTo([lat,lon],15)
      }
+     if (urlParams.has('slug')) {
+	  for (let i = 0; i < travellocations.features.length; i++) {
+      slug = travellocations.features[i].properties.slug
+      coord = travellocations.features[i].geometry.coordinates
+      if (  slug == urlParams.get('slug')  ) {
+        map.flyTo([coord[1],coord[0]],13)
+      }
+    }
+
+     }
+
+  })
+  .catch(error => {
+    console.error('There has been a problem with your fetch operation:', error);
+  });
 
 
 

@@ -528,7 +528,8 @@
       },
       "properties": {
         "name": "Angkor Wat",
-        "imagelink": "https://github.com/user-attachments/assets/eb7b842a-f480-43da-be27-1668b38ac1cc"
+        "imagelink": "https://github.com/user-attachments/assets/eb7b842a-f480-43da-be27-1668b38ac1cc",
+        "slug": "angkor-wat"
       }
     },
 {
