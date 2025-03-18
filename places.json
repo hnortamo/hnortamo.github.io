@@ -1,410 +1,607 @@
 {
-  "type": "FeatureCollection",
-  "features":
-  [
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        22.696917,
-        63.674386
-      ]
-    },
-    "properties": {
-      "name": "Jakobstad"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        24.941943,
-        60.321394
-      ]
-    },
-    "properties": {
-      "name": "Helsingfors"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        28.735981,
-        41.282913
-      ]
-    },
-    "properties": {
-      "name": "Istanbul"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.167471,
-        -8.745993
-      ]
-    },
-    "properties": {
-      "name": "Airport"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.260535,
-        -8.507562
-      ]
-    },
-    "properties": {
-      "name": "Homestay"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.261416,
-        -8.506043
-      ]
-    },
-    "properties": {
-      "name": "Water Palace"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.262567,
-        -8.506669
-      ]
-    },
-    "properties": {
-      "name": "Ubud Palace"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.260432,
-        -8.502588
-      ]
-    },
-    "properties": {
-      "name": "Rice field walk"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.254840,
-        -8.500087
-      ]
-    },
-    "properties": {
-      "name": "Campuhan Ridge Walk"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.260974,
-        -8.506420
-      ]
-    },
-    "properties": {
-      "name": "Tinos Warung"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.260910,
-        -8.518746
-      ]
-    },
-    "properties": {
-      "name": "Monkey forest"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.279185,
-        -8.427641
-      ]
-    },
-    "properties": {
-      "name": "Tengalalang risfält"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.323094,
-        -8.405686
-      ]
-    },
-    "properties": {
-      "name": "Satria Luwak Coffee"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.332103,
-        -8.532003
-      ]
-    },
-    "properties": {
-      "name": "Kanto lampo"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.324845,
-        -8.526894
-      ]
-    },
-    "properties": {
-      "name": "Warung Babi Guling Pande Egi"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.288949,
-        -8.575945
-      ]
-    },
-    "properties": {
-      "name": "Tegenugan Waterfall"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.257652,
-        -8.516298
-      ]
-    },
-    "properties": {
-      "name": "Svaha spa"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.155402,
-        -8.683523
-      ]
-    },
-    "properties": {
-      "name": "Origin seminyak"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.159301,
-        -8.693985
-      ]
-    },
-    "properties": {
-      "name": "Surfing "
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.151144,
-        -8.682198
-      ]
-    },
-    "properties": {
-      "name": "Petitenget"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.149571,
-        -8.679344
-      ]
-    },
-    "properties": {
-      "name": "Potato head beach club"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.157129,
-        -8.674233
-      ]
-    },
-    "properties": {
-      "name": "Shooters (minigolf)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.161007,
-        -8.696882
-      ]
-    },
-    "properties": {
-      "name": "Middag vid stranden"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.153519,
-        -8.679375
-      ]
-    },
-    "properties": {
-      "name": "Lunch rooftop (matförgiftning?)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.165224,
-        -8.809389
-      ]
-    },
-    "properties": {
-      "name": "Tre små statyer"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        115.166807,
-        -8.813743
-      ]
-    },
-    "properties": {
-      "name": "Stor staty "
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        103.850345,
-        1.298950
-      ]
-    },
-    "properties": {
-      "name": "Hotel mi bencolen"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        103.853780,
-        1.299299
-      ]
-    },
-    "properties": {
-      "name": "Bugis+"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        103.860928,
-        1.283090
-      ]
-    },
-    "properties": {
-      "name": "Marina bay sands"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        103.866050,
-        1.284280
-      ]
-    },
-    "properties": {
-      "name": "Cloud forest"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        103.863688,
-        1.281982
-      ]
-    },
-    "properties": {
-      "name": "Supertree"
-    }
-  }
+"type": "FeatureCollection",
+"features":
+[
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+22.696917,63.674386
 ]
-
+      },
+      "properties": {
+        "name": "Jakobstad"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+24.941943,60.321394
+]
+      },
+      "properties": {
+        "name": "Helsingfors"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+28.735981,41.282913
+]
+      },
+      "properties": {
+        "name": "Istanbul"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.167471,-8.745993
+]
+      },
+      "properties": {
+        "name": "Airport"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.260535,-8.507562
+]
+      },
+      "properties": {
+        "name": "Homestay"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.261416,-8.506043
+]
+      },
+      "properties": {
+        "name": "Water Palace"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.262567,-8.506669
+]
+      },
+      "properties": {
+        "name": "Ubud Palace"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.260432,-8.502588
+]
+      },
+      "properties": {
+        "name": "Rice field walk"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.254840,-8.500087
+]
+      },
+      "properties": {
+        "name": "Campuhan Ridge Walk"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.260974,-8.506420
+]
+      },
+      "properties": {
+        "name": "Tinos Warung"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.260910,-8.518746
+]
+      },
+      "properties": {
+        "name": "Monkey forest"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.279185,-8.427641
+]
+      },
+      "properties": {
+        "name": "Tengalalang risfält"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.323094,-8.405686
+]
+      },
+      "properties": {
+        "name": "Satria Luwak Coffee"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.332103,-8.532003
+]
+      },
+      "properties": {
+        "name": "Kanto lampo"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.324845,-8.526894
+]
+      },
+      "properties": {
+        "name": "Warung Babi Guling Pande Egi"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.288949,-8.575945
+]
+      },
+      "properties": {
+        "name": "Tegenugan Waterfall"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.257652,-8.516298
+]
+      },
+      "properties": {
+        "name": "Svaha spa"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.155402,-8.683523
+]
+      },
+      "properties": {
+        "name": "Origin seminyak"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.159301,-8.693985
+]
+      },
+      "properties": {
+        "name": "Surfing "
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.151144,-8.682198
+]
+      },
+      "properties": {
+        "name": "Petitenget"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.149571,-8.679344
+]
+      },
+      "properties": {
+        "name": "Potato head beach club"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.157129,-8.674233
+]
+      },
+      "properties": {
+        "name": "Shooters (minigolf)"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.161007,-8.696882
+]
+      },
+      "properties": {
+        "name": "Middag vid stranden"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.153519,-8.679375
+]
+      },
+      "properties": {
+        "name": "Lunch rooftop (matförgiftning?)"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.165224,-8.809389
+]
+      },
+      "properties": {
+        "name": "Tre små statyer"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+115.166807,-8.813743
+]
+      },
+      "properties": {
+        "name": "Stor staty "
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.850345,1.298950
+]
+      },
+      "properties": {
+        "name": "Hotel mi bencolen"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.853780,1.299299
+]
+      },
+      "properties": {
+        "name": "Bugis+"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.860928,1.283090
+]
+      },
+      "properties": {
+        "name": "Marina bay sands"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.866050,1.284280
+]
+      },
+      "properties": {
+        "name": "Cloud forest"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.863688,1.281982
+]
+      },
+      "properties": {
+        "name": "Supertree"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.844592,1.281305
+]
+      },
+      "properties": {
+        "name": "Chinatown"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.852214,1.307099
+]
+      },
+      "properties": {
+        "name": "Little India"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.859339,1.301984
+]
+      },
+      "properties": {
+        "name": "Arabiska kvarteren"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.849915,1.280564
+]
+      },
+      "properties": {
+        "name": "Hawker centre"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.858328,1.284380
+]
+      },
+      "properties": {
+        "name": "Ljusshow vid vattnet"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.861713,1.282482
+]
+      },
+      "properties": {
+        "name": "Ljusshow Gardens by the Bay"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.844456,1.289218
+]
+      },
+      "properties": {
+        "name": "Clark Quay"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.848060,1.294759
+]
+      },
+      "properties": {
+        "name": "Spice garden"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+104.049331,13.342058
+]
+      },
+      "properties": {
+        "name": "Åker"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.852927,13.358494
+]
+      },
+      "properties": {
+        "name": "Mony Reach Angkor Hotel"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.854588,13.354743
+]
+      },
+      "properties": {
+        "name": "Pub street"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.855105,13.352899
+]
+      },
+      "properties": {
+        "name": "Bro över ån"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.863994,13.412271
+]
+      },
+      "properties": {
+        "name": "Angkor Wat",
+        "imagelink": "https://github.com/user-attachments/assets/eb7b842a-f480-43da-be27-1668b38ac1cc"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.859397,13.441420
+]
+      },
+      "properties": {
+        "name": "Bayon Tempel"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.866778,13.461938
+]
+      },
+      "properties": {
+        "name": "Preah Khan Tempel"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.859940,13.448493
+]
+      },
+      "properties": {
+        "name": "Lunch"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.894765,13.465666
+]
+      },
+      "properties": {
+        "name": "Neak Pean"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.920412,13.446571
+]
+      },
+      "properties": {
+        "name": "East Mebon"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+103.889169,13.434911
+]
+      },
+      "properties": {
+        "name": "Tah Prohm"
+      }
+    }
+]
 }
