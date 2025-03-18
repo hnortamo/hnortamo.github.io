@@ -16,22 +16,22 @@
    <style>
 
         @media (min-width: 1200px) {
-            .img {
+            .icont {
               width: 500px
             }
         }
         @media (min-width: 992px) and (max-width: 1199px) {
-            .img {
-              width: 500px
+            .icont {
+              width: 400px
             }
         }
         @media (min-width: 768px) and (max-width: 991px) {
-            .img {
-              width: 500px
+            .icont {
+              width: 300px
             }
         }
         @media (max-width: 767px) {
-            .img {
+            .icont {
               width: 300px
             }
         }
@@ -106,7 +106,7 @@
 		  L.circleMarker([coord[1],coord[0]],
 			{ color: 'red',
         		fillColor: '#f03',}
-      ).bindPopup("<b>"+name+"</b><br><img src="+travellocations.features[i].properties.imagelink+" width=500px%>",{
+      ).bindPopup("<b>"+name+'</b><br><div class="icont"><img src='+travellocations.features[i].properties.imagelink+" width=100%> </div>",{
   maxWidth: "auto"
 }).addTo(map);
 
